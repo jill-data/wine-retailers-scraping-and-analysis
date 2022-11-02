@@ -1,510 +1,510 @@
-,name,wine_type,country,year,price,scaledprice,score,num_review,abv,size (cL),age,logprice
-0,McGuigan Black Label Shiraz,white,Australia,2021,6.75,6.75,3.6,13,12.5,75.0,1.0,0.829303772831025
-1,Morrisons The Best Touraine Rose,white,France,,8.0,8.0,0.0,4,12.5,75.0,,0.9030899869919435
-2,McGuigan Black Label Merlot,white,Australia,2021,6.75,6.75,4.2,13,12.5,75.0,1.0,0.829303772831025
-3,Morrisons The Best South African Sauvignon Blanc,white,Western Cape,2021,7.5,7.5,4.0,9,12.5,75.0,1.0,0.8750612633917001
-4,Hardys Nottage Hill Chardonnay,white,Australia,2017,6.75,6.75,0.0,5,13.5,75.0,5.0,0.829303772831025
-5,McGuigan Black Label Pinot Grigio,white,Australia,2021,6.75,6.75,4.1,7,11.5,75.0,1.0,0.829303772831025
-6,McGuigan Black Label Chardonnay,white,Australia,2021,6.75,6.75,0.0,4,12.5,75.0,1.0,0.829303772831025
-7,Morrisons The Best Marlborough Sauvignon Blanc,white,New Zealand,2019,9.0,9.0,0.0,3,12.5,75.0,3.0,0.9542425094393249
-8,Veluti Pinot Grigio,white,Italy,2020,6.25,6.25,3.8,13,12.5,75.0,2.0,0.7958800173440752
-9,The Ned Sauvignon Blanc,white,New Zealand,2020,10.0,10.0,0.0,4,13.0,75.0,2.0,1.0
-10,Mud House Chile Sauvignon Blanc,white,Chile,2021,5.99,5.99,0.0,3,12.5,75.0,1.0,0.7774268223893114
-11,Mud House Marlborough Sauvignon Blanc,white,New Zealand,2020,9.0,9.0,4.4,11,12.5,75.0,2.0,0.9542425094393249
-12,Rosemount Diamond Selection Chardonnay,white,Australia,2019,5.49,5.49,0.0,4,12.5,75.0,3.0,0.7395723444500919
-13,Klein St Sauvignon Blanc,white,South Africa,2021,6.0,6.0,0.0,0,12.5,75.0,1.0,0.7781512503836436
-14,Hardys Bankside Chardonnay,white,Australia,2017,6.5,6.5,0.0,5,12.5,75.0,5.0,0.8129133566428556
-15,I Heart Pinot Grigio,white,Hungary,Non Vintage,6.0,6.0,0.0,1,12.0,75.0,,0.7781512503836436
-16,Primo Vere Pinot Grigio,white,Italy,2020,6.75,6.75,3.8,9,12.5,75.0,2.0,0.829303772831025
-17,Jam Shed Chardonnay Australia,white,Australia,2020,6.0,6.0,0.0,3,13.5,75.0,2.0,0.7781512503836436
-18,Morrisons The Best Trentino Pinot Grigio,white,Italy,2015,7.25,7.25,3.5,6,12.5,75.0,7.0,0.8603380065709937
-19,Wolf Blass Vineyards Chardonnay,white,Australia,2012,6.5,6.5,0.0,3,13.0,75.0,10.0,0.8129133566428556
-20,Yellow Tail Pinot Grigio,white,Australia,2020,6.0,6.0,0.0,3,11.5,75.0,2.0,0.7781512503836436
-21,Casillero del Diablo Reserva Sauvignon Blanc,white,unknown,2021,6.5,6.5,0.0,5,12.0,75.0,1.0,0.8129133566428556
-22,Kumala Sauvignon Blanc,white,South Africa,2017,6.25,6.25,0.0,0,13.0,75.0,5.0,0.7958800173440752
-23,Squealing Pig Sauvignon Blanc,white,New Zealand,2018,10.0,10.0,0.0,3,13.5,75.0,4.0,1.0
-24,I Heart Sauvignon Blanc,white,Spain,,6.0,6.0,0.0,2,11.5,75.0,,0.7781512503836436
-25,Morrisons The Best Gavi,white,Italy,2015,9.0,9.0,0.0,1,12.5,75.0,7.0,0.9542425094393249
-26,Wolf Blass Yellow Label Chardonnay,white,Australia,Non Vintage,6.5,6.5,0.0,5,13.0,75.0,,0.8129133566428556
-27,Yealands Reserve Sauvignon Blanc,white,New Zealand,2019,7.99,7.99,0.0,1,13.0,75.0,3.0,0.9025467793139914
-28,Cono Sur Bicicleta  Sauvignon Blanc,white,Chile,2021,5.75,5.75,0.0,5,13.0,75.0,1.0,0.7596678446896304
-29,Morrisons The Best Chardonnay,white,South Africa,2018,7.75,7.75,0.0,4,13.5,75.0,4.0,0.8893017025063102
-30,Turner Road Reserve Chardonnay,white,California,2016,6.5,6.5,0.0,5,12.5,75.0,6.0,0.8129133566428556
-31,Morrisons The Best Muscadet Serve Et Maine Sur Lie,white,France,2015,8.5,8.5,4.1,7,12.0,75.0,7.0,0.9294189257142927
-32,Mcguigan Black Label Chardonnay 187Ml,white,Australia,2020,2.25,9.024064171122996,0.0,0,12.5,18.7,2.0,0.9554021749665637
-33,Black Tower Fruity White,white,Produce of the EU,2021,6.0,6.0,0.0,3,9.5,75.0,1.0,0.7781512503836436
-34,Morrisons The Best Chenin Blanc,white,Western Cape,2021,8.0,8.0,4.7,9,12.5,75.0,1.0,0.9030899869919435
-35,Yellow Tail Pinot Grigio,white,Australia,2019,2.49,9.986631016042782,0.0,0,11.5,18.7,3.0,0.9994190039509375
-36,Morrisons The Best Pecorino,white,Italy,2015,7.25,7.25,0.0,5,13.0,75.0,7.0,0.8603380065709937
-37,Brancott Estate Terroir Series Reserve Sauvignon Blanc,white,New Zealand,2020,9.0,9.0,4.5,6,13.0,75.0,2.0,0.9542425094393249
-38,Chapmans Bay Sauvignon Blanc,white,South Africa,2021,6.0,6.0,0.0,0,12.5,75.0,1.0,0.7781512503836436
-39,Morrisons The Best Western Australia Chardonnay,white,Australia,2018,8.5,8.5,0.0,3,13.0,75.0,4.0,0.9294189257142927
-40,Morrisons The Best Touraine Sauvignon,white,France,2015,9.0,9.0,0.0,2,12.5,75.0,7.0,0.9542425094393249
-41,Morrisons The Best Marques de los Rios Rioja Blanco,white,Spain,2020,8.0,8.0,0.0,3,13.0,75.0,2.0,0.9030899869919435
-42,The Signal Post Chenin Blanc,white,South Africa,2020,7.25,7.25,0.0,0,12.5,75.0,2.0,0.8603380065709937
-43,Zarper Sauvignon Blanc Gran Reserva,white,Chile,,6.5,6.5,0.0,2,12.5,75.0,,0.8129133566428556
-44,Morrisons The Best Soave Classico,white,Italy,2016,7.75,7.75,4.0,6,12.0,75.0,6.0,0.8893017025063102
-45,Zalze Bush Vine Chenin Blanc,white,South Africa,2021,6.0,6.0,0.0,0,13.0,75.0,1.0,0.7781512503836436
-46,Head Honcho Sauvignon Blanc,white,Chile,2018,6.0,6.0,0.0,4,12.5,75.0,4.0,0.7781512503836436
-47,Morrisons The Best Verdicchio,white,Italy,2015,7.25,7.25,4.1,8,12.5,75.0,7.0,0.8603380065709937
-48,Gallo Family Vineyards Pinot Grigio White Wine,white,United States,2019,5.75,5.75,0.0,0,11.5,75.0,3.0,0.7596678446896304
-49,Morrisons The Best Gruner Veltliner,white,Austria,2020,8.75,8.75,4.5,10,12.5,75.0,2.0,0.9420080530223133
-50,Morrisons The Best Falanghina,white,Italy,,7.5,7.5,0.0,3,12.5,75.0,,0.8750612633917001
-51,Blossom Hill White Wine,white,Spain,,6.0,6.0,0.0,1,12.5,75.0,,0.7781512503836436
-52,I Heart Pinot Grigio,white,Italy,2020,2.25,9.024064171122996,0.0,0,12.0,18.7,2.0,0.9554021749665637
-53,Dark Horse Chardonnay White Wine,white,United States,2019,7.0,7.0,4.5,34,14.5,75.0,3.0,0.8450980400142568
-54,Italia Pinot Grigio,white,unknown,2018,7.5,7.5,0.0,4,14.5,75.0,4.0,0.8750612633917001
-55,Morrisons The Best Vouvray,white,France,,10.0,10.0,3.4,10,12.5,75.0,,1.0
-56,Gary Barlow Organic White Wine,white,Spain,2020,6.0,6.0,0.0,2,12.0,75.0,2.0,0.7781512503836436
-57,Oyster Bay Chardonnay,white,New Zealand,2019,7.99,7.99,0.0,2,13.0,75.0,3.0,0.9025467793139914
-58,Morrisons The Best Alsace Gewurztraminer,white,France,2014,10.0,10.0,4.1,16,14.0,75.0,8.0,1.0
-59,Freixenet Pinot Grigio,white,Italy,2019,8.5,8.5,0.0,0,11.5,75.0,3.0,0.9294189257142927
-60,Head Honcho Sauvignon Blanc,white,Chile,,2.0,8.02139037433155,0.0,1,12.0,18.7,,0.9042496525191823
-61,Morrisons The Best Canto Real Rueda,white,Spain,,7.75,7.75,3.8,6,13.0,75.0,,0.8893017025063102
-62,Morrisons The Best Vinho Verde 'Loureiro' Wine,white,Portugal,2020,8.75,8.75,0.0,4,12.0,75.0,2.0,0.9420080530223133
-63,Morrisons The Best Pinot Grigio Alto Adige Doc,white,Italy,,10.0,10.0,0.0,1,13.0,75.0,,1.0
-64,Morrisons The Best Pinot Gris,white,France,2013,9.0,9.0,0.0,4,13.5,75.0,9.0,0.9542425094393249
-65,Blossom Hill White Wine,white,Spain,Non Vintage,2.0,8.02139037433155,0.0,0,12.5,18.7,,0.9042496525191823
-66,Morrisons Organic Pinot Grigio,white,Italy,2018,7.25,7.25,2.9,8,11.5,75.0,4.0,0.8603380065709937
-67,Barefoot White Zinfandel Rose Wine,white,United States,Non Vintage,2.25,9.024064171122996,0.0,0,8.5,18.7,,0.9554021749665637
-68,Morrisons The Best Pouilly Fume,white,France,2015,14.0,14.0,0.0,2,13.0,75.0,7.0,1.146128035678238
-69,Morrisons The Best Sancerre,white,France,2020,17.0,17.0,0.0,3,13.5,75.0,2.0,1.2304489213782739
-70,Mad Fish Sauvignon Blanc,white,Western Australia,2020,7.0,7.0,0.0,0,13.0,75.0,2.0,0.8450980400142568
-71,Morrisons The Best Riesling,white,Germany,2020,8.5,8.5,3.5,8,12.5,75.0,2.0,0.9294189257142927
-72,Morrisons The Best Chardonnay,white,Argentina,2016,8.75,8.75,3.2,6,13.0,75.0,6.0,0.9420080530223133
-73,Head Honcho Chardonnay,white,Chile,2018,6.0,6.0,0.0,4,13.5,75.0,4.0,0.7781512503836436
-74,Barefoot Sauvignon Blanc White Wine,white,U,Non Vintage,6.0,6.0,0.0,4,13.0,75.0,,0.7781512503836436
-75,Freixenet Sauvignon Blanc,white,unknown,2020,7.0,7.0,0.0,1,13.0,75.0,2.0,0.8450980400142568
-76,Echo Falls Pinot Grigio Rose,white,Italy,2019,6.5,6.5,0.0,0,12.0,75.0,3.0,0.8129133566428556
-77,Morrisons The Best Chablis Premier Cru,white,France,2012,18.0,18.0,0.0,3,13.0,75.0,10.0,1.255272505103306
-78,Ortense Pinot Grigio Terre Di Chieti,white,Italy,,13.5,4.5,0.0,0,12.5,225.0,,0.6532125137753437
-79,Rigal Vin Orange 75Cl,white,France,,10.0,10.0,0.0,3,12.0,75.0,,1.0
-80,Charles Rousseau Sauvignon Blanc,white,France,2019,8.0,8.0,0.0,3,11.5,75.0,3.0,0.9030899869919435
-81,Diablo Golden Chardonnay,white,Chile,2020,10.0,10.0,0.0,0,13.5,75.0,2.0,1.0
-82,Morrisons The Best Bortytis Semillon,white,Australia,2017,6.0,12.0,0.0,3,11.5,37.5,5.0,1.0791812460476249
-83,Fleurs De Prairie Luberon,white,France,,8.0,8.0,0.0,2,13.0,75.0,,0.9030899869919435
-84,Errazuriz Sauvignon Blanc,white,Chile,2020,9.0,9.0,0.0,3,13.0,75.0,2.0,0.9542425094393249
-85,Moillard Chablis,white,France,2021,13.5,13.5,0.0,0,12.5,75.0,1.0,1.130333768495006
-86,Morrisons The Best Grenache Blanc,white,South Africa,2020,8.0,8.0,0.0,3,12.5,75.0,2.0,0.9030899869919435
-87,Kylie Minogue Sauvignon Blanc,white,France,2019,9.0,9.0,0.0,2,11.5,75.0,3.0,0.9542425094393249
-88,Morrisons The Best Verdeca Igp 2021,white,Italy,,8.5,8.5,0.0,0,12.5,75.0,,0.9294189257142927
-89,Hardys Nottage Hill Pinot Grigio,white,Australia,2021,6.5,6.5,0.0,0,12.0,75.0,1.0,0.8129133566428556
-90,Terramare Pinot Grigio,white,Italy,2021,4.99,4.99,0.0,0,11.5,75.0,1.0,0.69810054562339
-91,Ortense Pinot Grigio Terre Di Chieti,white,Italy,,4.99,4.99,0.0,0,12.5,75.0,,0.69810054562339
-92,64 Edge South African Sauvignon Blanc,white,South Africa,2021,16.0,5.333333333333333,0.0,0,13.0,225.0,1.0,0.7269987279362623
-93,Maremel Albarino,white,Spain,2021,12.0,12.0,0.0,0,12.5,75.0,1.0,1.0791812460476249
-94,Wise Wolf Chardonnay,white,France,2021,10.0,10.0,0.0,0,13.5,75.0,1.0,1.0
-95,Cidade Branca White,white,Portugal,2021,8.0,8.0,0.0,0,13.0,75.0,1.0,0.9030899869919435
-96,Mirabeau La Folie Sparkling Rose,white,France,Non Vintage,12.0,12.0,0.0,0,12.5,75.0,,1.0791812460476249
-97,Morrisons The Best Vermentino,white,Italy,2017,7.0,7.0,3.0,8,13.5,75.0,5.0,0.8450980400142568
-98,Eleanor La Reine Piquepoul - Terret Cotes De Thau IGP,white,France,,8.0,8.0,0.0,0,12.5,75.0,,0.9030899869919435
-99,Hardys Nottage Hill Sauvignon Blanc,white,Australia,2017,6.5,6.5,0.0,1,12.5,75.0,5.0,0.8129133566428556
-100,McGuigan Black Label Sauvignon Blanc,white,Australia,2020,6.75,6.75,0.0,0,12.0,75.0,2.0,0.829303772831025
-101,Sorso Pinot Grigio,white,Italy,2018,4.99,4.99,4.6,10,12.5,75.0,4.0,0.69810054562339
-102,Villa Maria Private Bin Sauvignon Blanc,white,Marlborough,2021,10.5,10.5,4.4,13,13.5,75.0,1.0,1.021189299069938
-103,Morrisons Sauvignon Blanc,white,Chile,,4.89,4.89,0.0,3,12.0,75.0,,0.6893088591236202
-104,Morrisons Soave,white,Italy,,4.89,4.89,0.0,4,11.0,75.0,,0.6893088591236202
-105,64 Edge Sauvignon Blanc,white,South Africa,2021,5.49,5.49,0.0,1,13.0,75.0,1.0,0.7395723444500919
-106,Barefoot Pinot Grigio White Wine,white,United States,Non Vintage,6.75,6.75,4.8,8,12.0,75.0,,0.829303772831025
-107,Schmitt Liebfraumilch,white,Germany,,4.49,4.49,0.0,1,9.0,75.0,,0.6522463410033232
-108,The Shy Pig Crisp White,white,Australia,Non Vintage,4.79,4.79,3.3,15,10.5,75.0,,0.6803355134145632
-109,Yellow Tail Chardonnay,white,Australia,2020,7.0,7.0,0.0,0,13.0,75.0,2.0,0.8450980400142568
-110,Graham Norton Sauvignon Blanc,white,South Africa,2021,6.0,6.0,0.0,0,12.5,75.0,1.0,0.7781512503836436
-111,Schmitt Hock,white,Germany,,4.49,4.49,0.0,5,9.0,75.0,,0.6522463410033232
-112,Fairbank Wines Sauvignon Blanc,white,South Africa,2021,7.0,7.0,0.0,0,12.5,75.0,1.0,0.8450980400142568
-113,Oyster Bay Sauvignon Blanc,white,New Zealand,2020,10.5,10.5,4.8,8,13.0,75.0,2.0,1.021189299069938
-114,Cape Shadow Sauvignon Blanc,white,South Africa,2020,4.99,4.99,0.0,2,12.5,75.0,2.0,0.69810054562339
-115,Felix Solis Sol de Espana White Wine,white,Spain,Non Vintage,5.19,3.8925000000000005,0.0,3,11.0,100.0,,0.590228621240158
-116,19 Crimes Chardonnay,white,Australia,2020,9.0,9.0,4.2,13,13.5,75.0,2.0,0.9542425094393249
-117,Oxford Landing Sauvignon Blanc,white,Australia,2021,6.75,6.75,0.0,3,10.5,75.0,1.0,0.829303772831025
-118,Oxford Landing Chardonnay,white,Australia,2020,6.75,6.75,0.0,2,13.0,75.0,2.0,0.829303772831025
-119,Lindeman's Bin 65 Chardonnay,white,Australia,2017,6.5,6.5,0.0,3,13.0,75.0,5.0,0.8129133566428556
-120,Torres Vina Sol,white,Spain,2020,7.5,7.5,0.0,4,12.0,75.0,2.0,0.8750612633917001
-121,Silver Bay Point White,white,United Kingdom,Non Vintage,3.89,3.89,0.0,5,8.0,75.0,,0.5899496013257077
-122,Gallo Family Vineyards Moscato White Wine,white,California,2019,6.0,6.0,0.0,1,9.0,75.0,3.0,0.7781512503836436
-123,Silver Mine Sauvignon Blanc,white,Bulgaria,2021,4.79,4.79,0.0,1,12.0,75.0,1.0,0.6803355134145632
-124,Kendermanns Riesling Spatlese,white,Germany,2020,8.5,8.5,4.3,7,9.0,75.0,2.0,0.9294189257142927
-125,Wolf Blass Red Label Chardonnay Semillon,white,Australia,2014,7.0,7.0,0.0,3,12.5,75.0,8.0,0.8450980400142568
-126,Brancott Estate Sauvignon Blanc White Wine,white,New Zealand,2016,9.5,9.5,4.7,39,12.5,75.0,6.0,0.9777236052888477
-127,Daybreak Sauvignon Blanc,white,New Zealand,2017,8.0,8.0,4.2,6,12.0,75.0,5.0,0.9030899869919435
-128,Most Wanted Pinot Grigio,white,Italy,2020,7.75,7.75,4.7,12,12.0,75.0,2.0,0.8893017025063102
-129,Echo Falls White,white,United States,Non Vintage,5.19,5.19,0.0,2,11.5,75.0,,0.7151673578484579
-130,Casillero del Diablo Reserva Chardonnay,white,Chile,2021,7.5,7.5,0.0,5,13.0,75.0,1.0,0.8750612633917001
-131,Barefoot Chardonnay White Wine,white,United States,Non Vintage,6.75,6.75,4.3,31,13.5,75.0,,0.829303772831025
-132,Workshop Australia White,white,Australia,Non Vintage,4.99,4.99,0.0,1,11.5,75.0,,0.69810054562339
-133,19 Crimes Sauvignon Block,white,Australia,2020,9.0,9.0,4.0,6,12.0,75.0,2.0,0.9542425094393249
-134,Morrisons The Best Pinot Grigio,white,Italy,,18.0,6.0,0.0,1,12.5,225.0,,0.7781512503836436
-135,Morrisons Chenin Blanc,white,South Africa,2019,4.79,4.79,0.0,2,11.5,75.0,3.0,0.6803355134145632
-136,Yellow Tail Sauvignon Blanc,white,Australia,2020,7.0,7.0,0.0,1,11.5,75.0,2.0,0.8450980400142568
-137,Giesen Estate Sauvignon Blanc Wine,white,New Zealand,2020,9.0,9.0,4.8,8,12.5,75.0,2.0,0.9542425094393249
-138,Most Wanted Chardonnay,white,Australia,,7.75,7.75,0.0,1,13.5,75.0,,0.8893017025063102
-139,Silver Mine Chardonnay,white,Bulgaria,2021,4.79,4.79,0.0,0,12.0,75.0,1.0,0.6803355134145632
-140,Te Pa Signature Series Sauvignon Blanc,white,New Zealand,2020,10.0,10.0,0.0,3,13.0,75.0,2.0,1.0
-141,McGuigan Reserve Chardonnay,white,Australia,2021,7.0,7.0,0.0,3,13.0,75.0,1.0,0.8450980400142568
-142,64 Edge Marlborough Sauvignon Blanc,white,New Zealand,2019,9.0,9.0,0.0,4,13.0,75.0,3.0,0.9542425094393249
-143,Villa Maria Sauvignon Blanc Cellar Selection,white,New Zealand,2020,12.0,12.0,0.0,0,14.0,75.0,2.0,1.0791812460476249
-144,Stoneleigh Sauvignon Blanc White Wine,white,New Zealand,2020,10.0,10.0,0.0,4,13.0,75.0,2.0,1.0
-145,Cono Sur Bicicleta Viognier,white,Chile,2022,7.5,7.5,0.0,4,13.5,75.0,0.0,0.8750612633917001
-146,Gallo Family Vineyards Chardonnay White Wine,white,U,2019,6.0,6.0,0.0,3,13.0,75.0,3.0,0.7781512503836436
-147,Workshop Bench Blend Sauvignon Blanc,white,Australia,2018,4.79,4.79,2.5,6,11.0,75.0,4.0,0.6803355134145632
-148,Campo Viejo Rioja Blanco White Wine,white,Spain,2020,8.25,8.25,0.0,2,12.5,75.0,2.0,0.9164539485499251
-149,Barefoot On Tap Pinot Grigio White Wine,white,United States,Non Vintage,13.0,6.5,4.6,31,12.0,150.0,,0.8129133566428556
-150,Barefoot On Tap White Zinfandel Rose Wine,white,United States,Non Vintage,13.0,6.5,4.6,31,8.0,150.0,,0.8129133566428556
-151,Louis Alexandre Sauvignon Blanc,white,France,2014,7.5,7.5,0.0,5,11.5,75.0,8.0,0.8750612633917001
-152,The Horologist Sauvignon Blanc,white,New Zealand,2020,9.0,9.0,4.3,15,13.0,75.0,2.0,0.9542425094393249
-153,Squealing Pig Chardonnay,white,Australia,2018,10.0,10.0,0.0,0,13.0,75.0,4.0,1.0
-154,Florio Vecchioflorio Marsala Superiore Dolce,white,Italy,2017,11.0,11.0,0.0,0,18.0,75.0,5.0,1.0413926851582251
-155,McGuigan Reserve Pinot Grigio,white,Australia,2021,7.5,7.5,0.0,0,12.0,75.0,1.0,0.8750612633917001
-156,Penfolds Koonunga Hill Chardonnay,white,Australia,2019,10.0,10.0,0.0,0,13.5,75.0,3.0,1.0
-157,Trivento White Malbec,white,Argentina,2021,7.0,7.0,0.0,1,12.0,75.0,1.0,0.8450980400142568
-158,McGuigan Reserve Sauv Blanc,white,Australia,2021,7.5,7.5,0.0,2,12.5,75.0,1.0,0.8750612633917001
-159,The Wanted Chardonnay,white,Italy,2020,8.5,8.5,0.0,4,14.0,75.0,2.0,0.9294189257142927
-160,Morrisons The Best Chablis,white,France,,16.0,16.0,0.0,4,12.5,75.0,,1.2041199826559248
-161,Vinus By Paul MasClairette,white,France,2019,8.5,8.5,0.0,3,12.5,75.0,3.0,0.9294189257142927
-162,64 Edge Sauvignon Blanc,white,Chile,2021,7.0,7.0,0.0,0,12.5,75.0,1.0,0.8450980400142568
-163,McGuigan BIN 156 Chardonnay,white,Australia,2018,5.19,5.19,0.0,0,12.0,75.0,4.0,0.7151673578484579
-164,Morrisons The Best Sauternes,white,France,,12.0,24.0,0.0,0,14.0,37.5,,1.380211241711606
-165,Morrisons The Best Marques de los Rios Rioja Blanco,rose,Spain,2020,8.0,8.0,0.0,3,13.0,75.0,2.0,0.9030899869919435
-166,Morrisons The Best Provence Rose,rose,France,2018,9.5,9.5,0.0,1,13.0,75.0,4.0,0.9777236052888477
-167,Morrisons The Best Chenin Blanc,rose,Western Cape,2021,8.0,8.0,4.7,9,12.5,75.0,1.0,0.9030899869919435
-168,Morrisons The Best Pinot Grigio Rose,rose,Italy,2015,7.75,7.75,3.7,6,12.5,75.0,7.0,0.8893017025063102
-169,Vitis Nostra Pinot Noir Rose,rose,Italy,2015,6.25,6.25,4.5,11,11.5,75.0,7.0,0.7958800173440752
-170,Mateus Rose,rose,Portugal,Non Vintage,5.49,5.49,4.6,7,11.0,75.0,,0.7395723444500919
-171,Gallo Family Vineyards White Grenache Rose Wine,rose,U,2019,5.5,5.5,0.0,4,10.5,75.0,3.0,0.7403626894942439
-172,Barefoot White Zinfandel Rose Wine,rose,United States,Non Vintage,6.0,6.0,4.4,7,8.5,75.0,,0.7781512503836436
-173,Gallo Family Vineyards White Zinfandel Rose Wine,rose,United States,2019,5.5,5.5,0.0,0,8.5,75.0,3.0,0.7403626894942439
-174,Echo Falls White Zinfandel,rose,United States,2019,6.5,6.5,4.2,6,10.5,75.0,3.0,0.8129133566428556
-175,Blossom Hill White Zinfandel,rose,United States,2019,5.5,5.5,0.0,3,11.0,75.0,3.0,0.7403626894942439
-176,Barefoot Pink Moscato Rose Wine,rose,United States,Non Vintage,6.0,6.0,5.0,9,9.0,75.0,,0.7781512503836436
-177,La Vieille Ferme Rose,rose,France,2020,6.0,6.0,0.0,0,13.0,75.0,2.0,0.7781512503836436
-178,Morrisons The Best Touraine Rose,rose,France,,8.0,8.0,0.0,4,12.5,75.0,,0.9030899869919435
-179,Hardys Bankside Rose,rose,Australia,2017,6.5,6.5,0.0,1,11.5,75.0,5.0,0.8129133566428556
-180,I Heart Prosecco Rose,rose,Italy,2020,9.25,9.25,0.0,0,11.0,75.0,2.0,0.9661417327390326
-181,Black Tower Rosé,rose,Produce of the EU,Non Vintage,6.0,6.0,0.0,3,9.5,75.0,,0.7781512503836436
-182,L'Escarpe Coteaux D'Aix En Provence Rose,rose,France,2017,8.75,8.75,3.8,6,13.0,75.0,5.0,0.9420080530223133
-183,Yellow Tail Jammy Rose Roo,rose,Australia,2022,6.0,6.0,0.0,0,11.0,75.0,0.0,0.7781512503836436
-184,Blossom Hill Grenache Rosé,rose,United States,2019,5.5,5.5,0.0,4,11.0,75.0,3.0,0.7403626894942439
-185,I Heart Rose,rose,Spain,Non Vintage,6.0,6.0,0.0,1,12.0,75.0,,0.7781512503836436
-186,Blossom Hill Rose Wine,rose,Spain,Non Vintage,6.0,6.0,0.0,0,11.0,75.0,,0.7781512503836436
-187,Kylie Minogue Rose,rose,France,2019,9.0,9.0,0.0,3,12.5,75.0,3.0,0.9542425094393249
-188,Gallo Family Vineyards Spritz Raspberry & Lime,rose,United States,,4.0,4.0,0.0,5,5.5,75.0,,0.6020599913279624
-189,Gary Barlow Organic Rose,rose,Spain,2021,6.0,6.0,0.0,2,12.0,75.0,1.0,0.7781512503836436
-190,Barefoot Pink Pinot Grigio Rose Wine,rose,United States,Non Vintage,6.0,6.0,0.0,4,12.0,75.0,,0.7781512503836436
-191,Fleurs De Prairie Luberon Rose,rose,France,2020,2.49,9.986631016042782,0.0,0,13.0,18.7,2.0,0.9994190039509375
-192,Crocodile Diamante Rose,rose,France,2021,8.0,8.0,0.0,0,12.5,75.0,1.0,0.9030899869919435
-193,J. P. Chenet Ice Edition Rose,rose,France,Non Vintage,2.5,9.375,5.0,6,11.0,20.0,,0.9719712763997564
-194,Mirabeau X Rose,rose,France,2021,14.0,14.0,0.0,0,12.5,75.0,1.0,1.146128035678238
-195,Studio By Miraval Rose,rose,France,2021,12.0,12.0,0.0,0,13.0,75.0,1.0,1.0791812460476249
-196,Odette Mediterrannee Rose,rose,France,2021,10.0,10.0,0.0,0,13.0,75.0,1.0,1.0
-197,Cuvee Mistral De Provenc,rose,France,2020,12.0,12.0,0.0,0,13.0,75.0,2.0,1.0791812460476249
-198,The Pale Rose,rose,France,2021,14.0,14.0,0.0,0,12.5,75.0,1.0,1.146128035678238
-199,Mucho Mas Rose,rose,Spain,Non Vintage,7.5,7.5,0.0,0,13.0,75.0,,0.8750612633917001
-200,Morrisons White Zinfandel,rose,United States,,4.89,4.89,4.6,8,10.5,75.0,,0.6893088591236202
-201,The Shy Pig Blush,rose,Australia,Non Vintage,4.79,4.79,2.6,10,10.5,75.0,,0.6803355134145632
-202,Silver Bay Point Rose,rose,United Kingdom,Non Vintage,3.89,3.89,3.5,15,8.0,75.0,,0.5899496013257077
-203,Gallo Family Vineyards Summer Rose Wine,rose,United States,Non Vintage,4.79,4.79,3.8,6,5.5,75.0,,0.6803355134145632
-204,Kingsland Portuguese Rose,rose,Portugal,Non Vintage,4.69,4.69,0.0,1,10.0,75.0,,0.6711728427150833
-205,Myton Hill Rose,rose,Spain,Non Vintage,4.19,4.19,0.0,0,10.5,75.0,,0.6222140229662954
-206,Yellow Tail Rose,rose,Australia,Non Vintage,7.0,7.0,0.0,1,12.0,75.0,,0.8450980400142568
-207,19 Crimes Revolutionary Rose,rose,Spain,,9.0,9.0,0.0,5,13.5,75.0,,0.9542425094393249
-208,Jam Shed Rose California,rose,United States,2020,8.0,8.0,0.0,4,11.0,75.0,2.0,0.9030899869919435
-209,Rose Calvet Cap D' Adge Igp Cotes De Thau,rose,France,2018,9.0,9.0,0.0,2,12.0,75.0,4.0,0.9542425094393249
-210,Squealin Pig Pinot Grigio Rose,rose,Italy,2021,10.0,10.0,0.0,0,12.0,75.0,1.0,1.0
-211,Trivento Rose,rose,Argentina,2021,8.0,8.0,0.0,0,11.5,75.0,1.0,0.9030899869919435
-212,Mud House Chile Rose,rose,Chile,2021,9.0,9.0,0.0,0,12.5,75.0,1.0,0.9542425094393249
-213,Freixenet Italian Rose,rose,Italy,2019,9.0,9.0,0.0,3,11.5,75.0,3.0,0.9542425094393249
-214,Piccini Costa Toscana Organic Rose,rose,Italy,2021,9.0,9.0,0.0,0,12.5,75.0,1.0,0.9542425094393249
-215,Blossom Hill Gin Fizz Blood Orange,rose,United Kingdom,,9.0,9.0,0.0,0,8.5,75.0,,0.9542425094393249
-216,Fairbank Sauvignon Blanc Rose,rose,South Africa,2020,7.0,7.0,0.0,3,12.5,75.0,2.0,0.8450980400142568
-217,Morrisons The Best Marlborough Sauvignon Blanc,sparkling,New Zealand,2019,9.0,9.0,0.0,3,12.5,75.0,3.0,0.9542425094393249
-218,Aperol,sparkling,Italy,,16.0,17.142857142857142,0.0,4,11.0,70.0,,1.234083206033368
-219,Morrisons The Best South African Sauvignon Blanc,sparkling,Western Cape,2021,7.5,7.5,4.0,9,12.5,75.0,1.0,0.8750612633917001
-220,La Gioiosa Prosecco Brut,sparkling,Italy,Non Vintage,10.0,10.0,4.7,7,11.0,75.0,,1.0
-221,Morrisons The Best Prosecco DOC,sparkling,Italy,,8.75,8.75,4.2,18,11.0,75.0,,0.9420080530223133
-222,La Gioiosa Rosado Prosecco,sparkling,Italy,Non Vintage,10.0,10.0,4.6,9,11.0,75.0,,1.0
-223,Sorso Prosecco Spumante,sparkling,Italy,Non Vintage,6.49,6.49,3.4,16,11.0,75.0,,0.8122446968003693
-224,Morrisons The Best Prosecco Valdobbiadene DOCG,sparkling,Italy,,10.0,10.0,4.9,9,11.0,75.0,,1.0
-225,Menestrello Prosecco Spumante,sparkling,Italy,Non Vintage,8.0,8.0,3.8,13,11.0,75.0,,0.9030899869919435
-226,I Heart Prosecco,sparkling,Italy,Non Vintage,8.75,8.75,3.7,6,11.0,75.0,,0.9420080530223133
-227,Freixenet Prosecco D. O. C.,sparkling,Italy,Non Vintage,9.0,9.0,4.0,6,11.0,75.0,,0.9542425094393249
-228,Morrisons The Best Marques de los Rios Cava Brut,sparkling,Spain,,9.25,9.25,4.2,10,12.0,75.0,,0.9661417327390326
-229,Freixenet Prosecco,sparkling,Italy,Non Vintage,4.25,15.9375,0.0,0,11.0,20.0,,1.2024201977780304
-230,Codorniu Vintage Cava Brut,sparkling,Spain,2019,11.0,11.0,0.0,2,11.5,75.0,3.0,1.0413926851582251
-231,Morrisons The Best Cremant De Limoux Sparkling Wine,sparkling,France,,12.5,12.5,0.0,4,12.5,75.0,,1.0969100130080565
-232,Morrisons The Best Prosecco Rose DOC,sparkling,Italy,,8.75,8.75,0.0,3,11.0,75.0,,0.9420080530223133
-233,Morrisons The Best Etienne Leclair Brut Champagne,sparkling,France,,23.0,23.0,0.0,4,12.0,75.0,,1.3617278360175928
-234,Morrisons The Best English Sparkling Brut Vintage 2010,sparkling,United Kingdom,,27.0,27.0,4.5,8,11.5,75.0,,1.4313637641589874
-235,Freixenet Italian Rose Sparkling Wine,sparkling,Italy,Non Vintage,4.25,15.9375,0.0,2,11.0,20.0,,1.2024201977780304
-236,Morrisons The Best Brut Premier Cru Champagne,sparkling,France,,27.0,27.0,0.0,2,12.0,75.0,,1.4313637641589874
-237,Mionetto Prosecco Doc Treviso Brut,sparkling,Italy,Non Vintage,10.0,10.0,0.0,2,11.0,75.0,,1.0
-238,Morrisons The Best Etienne Leclair Brut Rose Champagne,sparkling,France,,24.0,24.0,0.0,3,12.0,75.0,,1.380211241711606
-239,Corvezzo Organic Prosecco,sparkling,Italy,2017,8.0,8.0,4.8,12,11.5,75.0,5.0,0.9030899869919435
-240,Lambrini Lightly Sparkling Perry,sparkling,unknown,,2.75,16.5,0.0,0,6.0,12.5,,1.2174839442139063
-241,Jules Mignon Brutreserve Champagne,sparkling,France,Non Vintage,16.0,16.0,4.3,6,12.0,75.0,,1.2041199826559248
-242,Charles De Villers Champagne Brut,sparkling,France,,24.0,24.0,0.0,4,12.5,75.0,,1.380211241711606
-243,Veuve Devanlay Champagne Brut,sparkling,France,Non Vintage,26.0,26.0,4.3,6,12.0,75.0,,1.414973347970818
-244,19 Crimes Sparkling White,sparkling,Australia,Non Vintage,10.0,10.0,0.0,0,12.0,75.0,,1.0
-245,Pale Fox Single Estate Prosecco Gift Box,sparkling,Italy,2021,25.0,25.0,0.0,0,11.0,75.0,1.0,1.3979400086720377
-246,Ferrari Brut Nv,sparkling,Italy,Non Vintage,23.0,23.0,0.0,0,12.5,75.0,,1.3617278360175928
-247,Morrisons Winter Spiced Fizz,sparkling,unknown,,3.49,3.49,0.0,1,4.0,75.0,,0.5428254269591799
-248,Castillo De Sierra Brut,sparkling,Spain,Non Vintage,5.85,5.85,0.0,3,11.5,75.0,,0.7671558660821804
-249,Castillo De Sierra Semi Seco Cava,sparkling,Spain,Non Vintage,5.85,5.85,4.7,7,11.5,75.0,,0.7671558660821804
-250,Castillo De Sierra Rosado,sparkling,Spain,Non Vintage,5.99,5.99,0.0,5,11.5,75.0,,0.7774268223893114
-251,Kylie Minogue Prosecco Rose,sparkling,Italy,Non Vintage,9.0,9.0,0.0,4,11.0,75.0,,0.9542425094393249
-252,Martini Asti Sparkling Wine,sparkling,Italy,Non Vintage,8.5,8.5,5.0,7,7.5,75.0,,0.9294189257142927
-253,La Gioiosa Prosecco Brut,sparkling,Italy,Non Vintage,10.0,10.0,4.7,7,11.0,75.0,,1.0
-254,Canti Prosecco Spumante Brut,sparkling,Italy,2019,9.5,9.5,4.0,9,11.0,75.0,3.0,0.9777236052888477
-255,Freixenet Vintage Brut Cava,sparkling,Spain,2014,7.0,7.0,0.0,5,11.5,75.0,8.0,0.8450980400142568
-256,Freixenet Cordon Negro Brut Cava,sparkling,Spain,Non Vintage,11.0,11.0,4.1,9,11.5,75.0,,1.0413926851582251
-257,Mcguigan Black Label Shiraz,sparkling,Australia,Non Vintage,7.5,7.5,0.0,4,13.5,75.0,,0.8750612633917001
-258,Radacini Blanc De Noirs,sparkling,Moldova (Republic Of),Non Vintage,7.0,7.0,0.0,3,12.0,75.0,,0.8450980400142568
-259,Freixenet Italian Sparkling Rose,sparkling,Italy,Non Vintage,12.0,12.0,0.0,3,10.8,75.0,,1.0791812460476249
-260,Maschio  Prosecco,sparkling,Italy,2015,10.0,10.0,4.0,7,11.0,75.0,7.0,1.0
-261,Moet Rose Champagne NV Gift Box,sparkling,France,Non Vintage,47.0,47.0,0.0,3,12.0,75.0,,1.6720978579357175
-262,Champagne Veuve Devanlay Nv Rose,sparkling,France,Non Vintage,22.0,22.0,4.3,6,12.0,75.0,,1.3424226808222062
-263,Freixenet Prosecco,sparkling,Italy,Non Vintage,20.0,10.0,0.0,1,11.0,150.0,,1.0
-264,Lanson Black Label Brut NV,sparkling,France,Non Vintage,37.0,37.0,0.0,1,12.5,75.0,,1.568201724066995
-265,Freixenet  Cordon Rosado    Seco,sparkling,Spain,Non Vintage,11.0,11.0,0.0,3,12.0,75.0,,1.0413926851582251
-266,Heidsieck & Co Monopole Blue Top Brut Champagne,sparkling,France,Non Vintage,29.0,29.0,0.0,2,12.0,75.0,,1.462397997898956
-267,Maschio Prosecco Doc Rose Spumante Extra Dry,sparkling,Italy,2019,11.0,11.0,0.0,3,11.0,75.0,3.0,1.0413926851582251
-268,Taittinger Brut Reserve NV,sparkling,France,Non Vintage,40.0,40.0,0.0,3,12.5,75.0,,1.6020599913279623
-269,Denbies Wine Estate Chalk Valley Sparkling Wine,sparkling,United Kingdom,,16.0,16.0,4.3,6,12.0,75.0,,1.2041199826559248
-270,Morrisons Mimosa,sparkling,unknown,,2.99,2.99,0.0,0,4.0,75.0,,0.4756711883244297
-271,"Mumm Cordon Rouge Champagne Brut, Non-Vintage",sparkling,France,Non Vintage,36.0,36.0,0.0,2,12.0,75.0,,1.5563025007672873
-272,Freixenet Italian Rose Sparkling Wine,sparkling,Italy,Non Vintage,20.0,10.0,0.0,1,11.0,150.0,,1.0
-273,Veuve Clicquot Champagne Vintage,sparkling,France,2012,56.0,56.0,0.0,1,12.0,75.0,10.0,1.7481880270062005
-274,Bollinger Special Cuvee Brut NV,sparkling,unknown,Non Vintage,52.0,52.0,0.0,3,12.0,75.0,,1.7160033436347992
-275,Lanson Rose Label Champagne Rose NV,sparkling,France,Non Vintage,41.0,41.0,0.0,0,12.5,75.0,,1.6127838567197355
-276,Moet Vintage Champagne Gift Box,sparkling,France,2012,54.0,54.0,0.0,1,12.5,75.0,10.0,1.7323937598229686
-277,Heidsieck Monopole Rose Champagne,sparkling,France,Non Vintage,35.0,35.0,0.0,1,12.0,75.0,,1.5440680443502757
-278,Moet & Chandon Imperial Brut Champagne,sparkling,France,Non Vintage,41.0,41.0,0.0,3,12.0,75.0,,1.6127838567197355
-279,Morrisons The Best Clementine Bucks Fizz,sparkling,France,,3.99,3.99,0.0,2,4.0,75.0,,0.6009728956867483
-280,Morrisons The Best Kir Royale,sparkling,France,,4.0,4.0,0.0,1,5.5,75.0,,0.6020599913279624
-281,McGuigan Black Label Pinot Grigio,red,Australia,2021,6.75,6.75,4.1,7,11.5,75.0,1.0,0.829303772831025
-282,McGuigan Black Label Chardonnay,red,Australia,2021,6.75,6.75,0.0,4,12.5,75.0,1.0,0.829303772831025
-283,Wolf Blass Vineyards Chardonnay,red,Australia,2012,6.5,6.5,0.0,3,13.0,75.0,10.0,0.8129133566428556
-284,Yellow Tail Malbec,red,Australia,2019,7.0,7.0,4.6,7,13.5,75.0,3.0,0.8450980400142568
-285,Apothic Red Wine,red,United States,2019,9.5,9.5,4.7,208,13.5,75.0,3.0,0.9777236052888477
-286,Apothic Cabernet Sauvignon Red Wine,red,United States,2019,10.0,10.0,0.0,0,13.5,75.0,3.0,1.0
-287,McGuigan Black Label Merlot,red,Australia,2021,6.75,6.75,4.2,13,12.5,75.0,1.0,0.829303772831025
-288,McGuigan Black Label Shiraz,red,Australia,2021,6.75,6.75,3.6,13,12.5,75.0,1.0,0.829303772831025
-289,Rosemount Diamond Selection Shiraz,red,Australia,2021,5.49,5.49,3.6,11,12.5,75.0,1.0,0.7395723444500919
-290,McGuigan Black Label Red,red,Australia,2020,6.75,6.75,4.4,9,13.0,75.0,2.0,0.829303772831025
-291,Wolf Blass Vineyards Release Shiraz,red,Australia,2013,6.5,6.5,0.0,2,13.5,75.0,9.0,0.8129133566428556
-292,Alzar            Malbec,red,Argentina,2021,6.25,6.25,3.0,17,12.5,75.0,1.0,0.7958800173440752
-293,Wolf Blass Red Label Shiraz Cabernet,red,Australia,2013,5.49,5.49,3.9,8,14.0,75.0,9.0,0.7395723444500919
-294,19 Crimes Red,red,Australia,2020,7.0,7.0,4.6,23,13.5,75.0,2.0,0.8450980400142568
-295,Beefsteak Club Mendoza Malbec,red,Argentina,2020,6.0,6.0,0.0,2,13.5,75.0,2.0,0.7781512503836436
-296,Barefoot Merlot Red Wine,red,United States,Non Vintage,6.0,6.0,4.6,11,13.5,75.0,,0.7781512503836436
-297,Most Wanted Shiraz,red,Australia,2021,5.49,5.49,0.0,1,13.5,75.0,1.0,0.7395723444500919
-298,Turner Road Reserve Merlot,red,USA,,6.5,6.5,3.6,9,13.0,75.0,,0.8129133566428556
-299,Casillero Del Diablo Reserva Cabernet Sauvignon,red,Valle Central,2020,6.5,6.5,0.0,5,13.5,75.0,2.0,0.8129133566428556
-300,Yellow Tail Jammy Red Roo,red,Australia,Non Vintage,6.0,6.0,3.9,13,12.0,75.0,,0.7781512503836436
-301,Hardys Nottage Hill Cabernet Shiraz,red,Australia,2016,6.75,6.75,4.0,7,14.0,75.0,6.0,0.829303772831025
-302,Yellow Tail Merlot,red,Australia,2019,6.0,6.0,0.0,2,13.5,75.0,3.0,0.7781512503836436
-303,Gallo Family Vineyards Merlot Red Wine,red,United States,2019,5.75,5.75,0.0,4,13.0,75.0,3.0,0.7596678446896304
-304,Alzar Sauvignon Blanc,red,Chile,2021,6.25,6.25,0.0,3,12.5,75.0,1.0,0.7958800173440752
-305,Campo Viejo Rioja Reserva Red Wine,red,Spain,2016,11.0,11.0,4.7,6,13.5,75.0,6.0,1.0413926851582251
-306,19 Crimes The Uprising Red Wine,red,Australia,2020,10.0,10.0,4.6,7,14.0,75.0,2.0,1.0
-307,Hardys Bankside Shiraz,red,Australia,2017,6.5,6.5,4.0,6,13.0,75.0,5.0,0.8129133566428556
-308,Hardys Nottage Hill Merlot,red,Australia,2017,6.75,6.75,0.0,0,14.0,75.0,5.0,0.829303772831025
-309,Morrisons The Best Primitivo,red,Italy,2018,8.25,8.25,4.6,8,13.5,75.0,4.0,0.9164539485499251
-310,Yellow Tail Shiraz,red,Australia,2018,2.49,9.986631016042782,0.0,0,13.5,18.7,4.0,0.9994190039509375
-311,Asado Club Malbec,red,Argentina,Non Vintage,6.0,6.0,3.6,14,13.0,75.0,,0.7781512503836436
-312,Piccini Memoro Red,red,Italy,Non Vintage,6.0,6.0,4.2,16,14.0,75.0,,0.7781512503836436
-313,Morrisons The Best Cabernet Sauvignon,red,South Africa,2021,7.5,7.5,0.0,0,13.5,75.0,1.0,0.8750612633917001
-314,Morrisons The Best Gran Montana Malbec,red,Argentina,2014,8.75,8.75,4.4,12,13.0,75.0,8.0,0.9420080530223133
-315,Morrisons The Best Cotes du Rhone Villages,red,France,2014,8.5,8.5,0.0,4,14.0,75.0,8.0,0.9294189257142927
-316,Morrisons The Best Marques de los Rios Rioja Reserva,red,Spain,2017,9.25,9.25,3.7,12,13.5,75.0,5.0,0.9661417327390326
-317,Morrisons The Best Negroamaro,red,Italy,2019,7.75,7.75,4.4,13,13.5,75.0,3.0,0.8893017025063102
-318,Campo Viejo Rioja Garnacha Red Wine,red,Spain,2020,7.0,7.0,0.0,2,14.0,75.0,2.0,0.8450980400142568
-319,Morrisons The Best Cahors Malbec,red,France,2019,8.25,8.25,0.0,4,13.0,75.0,3.0,0.9164539485499251
-320,Morrisons The Best Douro Red,red,Portugal,2012,8.25,8.25,4.5,6,13.5,75.0,10.0,0.9164539485499251
-321,Morrisons The Best Marques de los Rios Rioja Crianza,red,Spain,,8.5,8.5,3.2,6,13.5,75.0,,0.9294189257142927
-322,Reino De La Vina Rioja,red,Spain,2021,6.75,6.75,0.0,0,14.0,75.0,1.0,0.829303772831025
-323,Head Honcho Cabernet Sauvignon,red,Chile,2016,6.0,6.0,3.4,7,13.5,75.0,6.0,0.7781512503836436
-324,The Wanted Zin Zinfandel,red,Italy,2019,10.0,10.0,4.6,14,14.5,75.0,3.0,1.0
-325,Morrisons The Best Marques De Los Rios Rioja Joven,red,unknown,2020,2.5,10.026737967914439,0.0,0,14.0,18.7,2.0,1.0011596655272388
-326,Morrisons The Best Uco Valley Malbec,red,Argentina,2017,10.0,10.0,0.0,4,14.0,75.0,5.0,1.0
-327,Morrisons The Best Valpolicella Ripasso,red,Italy,2015,11.0,11.0,4.3,7,13.5,75.0,7.0,1.0413926851582251
-328,Trivento Private Reserve Malbec,red,Argentina,2020,10.0,10.0,0.0,5,14.0,75.0,2.0,1.0
-329,Alzar Merlot,red,Chile,2021,6.25,6.25,0.0,3,13.0,75.0,1.0,0.7958800173440752
-330,Blossom Hill Red Wine,red,Spain,,6.0,6.0,0.0,2,12.5,75.0,,0.7781512503836436
-331,Monts & Vaux Malbec,red,France,2018,6.25,6.25,2.4,11,12.5,75.0,4.0,0.7958800173440752
-332,Barefoot Malbec Red Wine,red,United States,Non Vintage,6.0,6.0,4.0,6,13.0,75.0,,0.7781512503836436
-333,Apothic Red Wine,red,United States,2019,9.5,9.5,4.7,208,13.5,75.0,3.0,0.9777236052888477
-334,Morrisons The Best Fleurie,red,France,,10.0,10.0,4.6,8,13.0,75.0,,1.0
-335,Gary Barlow Organic Red Wine,red,Spain,2020,6.0,6.0,3.4,7,13.5,75.0,2.0,0.7781512503836436
-336,I Heart Malbec,red,Argentina,2019,6.0,6.0,0.0,0,13.0,75.0,3.0,0.7781512503836436
-337,Morrisons The Best Bordeaux Superior,red,France,2014,7.5,7.5,0.0,1,13.0,75.0,8.0,0.8750612633917001
-338,Diablo Dark Red,red,Chile,2021,10.0,10.0,4.1,13,13.5,75.0,1.0,1.0
-339,Jam Shed Shiraz Australia,red,Australia,2020,12.0,6.0,0.0,2,13.5,150.0,2.0,0.7781512503836436
-340,I Heart Merlot,red,Spain,Non Vintage,6.0,6.0,0.0,0,12.0,75.0,,0.7781512503836436
-341,Morrisons The Best Pinotage,red,South Africa,2016,7.5,7.5,3.5,8,14.0,75.0,6.0,0.8750612633917001
-342,Montelciego Rioja Reserva,red,Spain,2016,7.0,7.0,2.5,16,13.5,75.0,6.0,0.8450980400142568
-343,Cono Sur Bicicleta Malbec,red,Chile,2020,5.5,5.5,0.0,3,13.0,75.0,2.0,0.7403626894942439
-344,Morrisons The Best Single Vineyard Pinot Noir,red,Chile,2019,10.0,10.0,0.0,2,13.0,75.0,3.0,1.0
-345,Head Honcho Merlot,red,Chile,2016,6.0,6.0,0.0,4,13.0,75.0,6.0,0.7781512503836436
-346,Morrisons The Best Barbera D'Asti,red,Italy,2014,8.25,8.25,3.9,8,14.5,75.0,8.0,0.9164539485499251
-347,Cono Sur Bicicleta Pinot Noir,red,Chile,2020,5.75,5.75,3.3,6,13.5,75.0,2.0,0.7596678446896304
-348,Lindemans Gentlemans Collection Cabernet Sauvignon,red,Australia,2020,8.5,8.5,4.2,6,14.0,75.0,2.0,0.9294189257142927
-349,Parrilla By Vinalba Malbec,red,Argentina,2020,9.0,9.0,0.0,3,14.0,75.0,2.0,0.9542425094393249
-350,Morrisons The Best Shiraz,red,South Africa,2019,7.5,7.5,0.0,4,14.0,75.0,3.0,0.8750612633917001
-351,Morrisons The Best Chianti Classico,red,Italy,,9.25,9.25,2.2,6,12.5,75.0,,0.9661417327390326
-352,The Signal Post Shiraz,red,South Africa,2021,7.25,7.25,0.0,0,13.0,75.0,1.0,0.8603380065709937
-353,Blossom Hill Classic Red,red,Spain,Non Vintage,2.0,8.02139037433155,0.0,0,12.5,18.7,,0.9042496525191823
-354,Morrisons The Best Chilean Carmenere,red,Chile,2021,8.25,8.25,0.0,2,13.5,75.0,1.0,0.9164539485499251
-355,Morrisons The Best Languedoc Red,red,France,,8.25,8.25,0.0,5,13.5,75.0,,0.9164539485499251
-356,Morrisons The Best Marques de los Rios Rioja Gran Reserva,red,Spain,,12.5,12.5,0.0,3,14.0,75.0,,1.0969100130080565
-357,Ogier Heritage Cotes Dr,red,France,2019,10.0,10.0,0.0,3,14.5,75.0,3.0,1.0
-358,Diablo Black Cabernet Sauvignon,red,Chile,2020,10.0,10.0,0.0,1,13.5,75.0,2.0,1.0
-359,Morrisons The Best Australia Cabernet Sauvignon,red,Australia,2013,7.5,7.5,0.0,4,14.0,75.0,9.0,0.8750612633917001
-360,Penfolds Koonunga Hill Shiraz Cabernet,red,Australia,2019,8.5,8.5,0.0,0,14.5,75.0,3.0,0.9294189257142927
-361,Morrisons The Best Chateauneuf Du Pape,red,France,,19.0,19.0,0.0,2,14.5,75.0,,1.2787536009528289
-362,Morrisons The Best Amarone,red,Italy,2014,17.0,17.0,4.4,7,14.5,75.0,8.0,1.2304489213782739
-363,Kumala Shiraz,red,South Africa,2017,6.25,6.25,0.0,3,13.5,75.0,5.0,0.7958800173440752
-364,Colpasso Nero D'Avola Appassimento,red,unknown,2020,7.5,7.5,0.0,1,14.0,75.0,2.0,0.8750612633917001
-365,Morrisons The Best Chilean Merlot,red,Chile,2021,8.25,8.25,0.0,0,13.5,75.0,1.0,0.9164539485499251
-366,Morrisons The Best Ribera Del Duero,red,Spain,,9.0,9.0,0.0,0,14.5,75.0,,0.9542425094393249
-367,Villa Maria Private Bin Pinot Noir,red,New Zealand,2020,11.0,11.0,0.0,4,13.5,75.0,2.0,1.0413926851582251
-368,Morrisons The Best Saint Emilion,red,France,2015,14.0,14.0,0.0,2,13.0,75.0,7.0,1.146128035678238
-369,Kumala Rose,red,South Africa,2017,6.25,6.25,0.0,0,12.0,75.0,5.0,0.7958800173440752
-370,Morrisons The Best Toscana,red,Italy,2019,10.0,10.0,0.0,5,13.0,75.0,3.0,1.0
-371,Morrisons The Best Dao Red,red,Portugal,,9.0,9.0,0.0,1,13.0,75.0,,0.9542425094393249
-372,Trivento Golden Reserve Malbec,red,Argentina,2019,13.0,13.0,0.0,1,13.5,75.0,3.0,1.1139433523068367
-373,Morrisons The Best Alvarinho,red,Portugal,,7.5,7.5,0.0,0,12.0,75.0,,0.8750612633917001
-374,Matsu El Picaro,red,Spain,2021,10.0,10.0,0.0,0,14.5,75.0,1.0,1.0
-375,Morrisons The Best Bush Vine Cinsault,red,South Africa,2021,8.5,8.5,0.0,3,14.5,75.0,1.0,0.9294189257142927
-376,Morrisons The Best Barolo,red,Italy,,19.0,19.0,1.8,11,14.0,75.0,,1.2787536009528289
-377,Errazuriz Cabernet Sauvignon,red,Chile,2019,7.5,7.5,0.0,1,13.5,75.0,3.0,0.8750612633917001
-378,Granite Earth Red,red,South Africa,2017,7.0,7.0,0.0,0,14.0,75.0,5.0,0.8450980400142568
-379,Baron Philippe de Rothschild Mouton Cadet Rouge,red,Bordeaux,2019,10.0,10.0,3.3,7,13.5,75.0,3.0,1.0
-380,Myton Hill Merlot,red,Moldova (Republic Of),,4.25,4.25,0.0,5,13.0,75.0,,0.6283889300503115
-381,Porta 6 Lisboa Tempranillo,red,Portugal,2021,7.5,7.5,0.0,0,13.5,75.0,1.0,0.8750612633917001
-382,Morrisons The Best Beaujolais Villages,red,France,,9.0,9.0,0.0,2,13.0,75.0,,0.9542425094393249
-383,Carte Rouge Vin de France,red,unknown,Non Vintage,5.5,5.5,0.0,0,12.0,75.0,,0.7403626894942439
-384,Mad Fish Shiraz,red,Western Australia,2018,9.0,9.0,0.0,0,14.5,75.0,4.0,0.9542425094393249
-385,Squealing Pig Primitivo,red,Italy,2017,9.0,9.0,0.0,1,13.0,75.0,5.0,0.9542425094393249
-386,Translations Shiraz,red,Spain,Non Vintage,4.99,4.99,0.0,0,13.0,75.0,,0.69810054562339
-387,Casillero Del Diablo Tempranillo,red,Spain,2020,7.5,7.5,0.0,0,14.0,75.0,2.0,0.8750612633917001
-388,Wolf Blass House Of The Dragon Cabernet Shiraz,red,Australia,2021,15.0,15.0,0.0,0,14.5,75.0,1.0,1.1760912590556813
-389,Cali By Snoop Cali Red,red,United States,2021,12.0,12.0,0.0,0,13.5,75.0,1.0,1.0791812460476249
-390,Pata Negra Toro Roble,red,Spain,2019,8.0,8.0,0.0,1,14.0,75.0,3.0,0.9030899869919435
-391,Mucho Mas Black Label Red,red,Spain,Non Vintage,7.5,7.5,0.0,1,14.0,75.0,,0.8750612633917001
-392,Leopards Leap Lookout Red,red,South Africa,2020,7.0,7.0,0.0,0,13.5,75.0,2.0,0.8450980400142568
-393,Wise Wolf Cabernet Sauvignon,red,France,2021,10.0,10.0,0.0,0,14.0,75.0,1.0,1.0
-394,B. INK Red Blend,red,Australia,2020,9.0,9.0,0.0,1,14.5,75.0,2.0,0.9542425094393249
-395,McGuigan Bin 578 Merlot,red,Australia,2018,5.19,5.19,4.5,8,12.5,75.0,4.0,0.7151673578484579
-396,The Workshop Wine Company Shiraz,red,United Kingdom,2016,4.79,4.79,4.7,6,13.5,75.0,6.0,0.6803355134145632
-397,Yellow Tail Shiraz,red,Australia,2020,7.0,7.0,4.5,8,13.5,75.0,2.0,0.8450980400142568
-398,The Shy Pig Red,red,Australia,Non Vintage,4.79,4.79,3.2,29,10.5,75.0,,0.6803355134145632
-399,Jam Shed Shiraz,red,Australia,2020,7.75,7.75,3.3,9,13.5,75.0,2.0,0.8893017025063102
-400,Montepulciano D'Abruzzo,red,Italy,2019,5.19,5.19,4.5,11,13.0,75.0,3.0,0.7151673578484579
-401,Barefoot Shiraz Red Wine,red,California,Non Vintage,5.5,5.5,4.4,7,13.5,75.0,,0.7403626894942439
-402,Morrisons Merlot,red,Chile,,4.79,4.79,0.0,3,13.0,75.0,,0.6803355134145632
-403,Morrisons Malbec 75Cl,red,South Africa,,4.99,4.99,0.0,1,13.0,75.0,,0.69810054562339
-404,Campo Viejo Rioja Tempranillo Red Wine,red,Spain,2019,8.25,8.25,4.3,44,13.5,75.0,3.0,0.9164539485499251
-405,Felix Solis Sol de Espana Red Wine,red,Spain,Non Vintage,4.99,3.7425,0.0,3,11.0,100.0,,0.57316180901509
-406,J.P. Chenet Cabernet Syrah,red,France,2016,6.75,6.75,0.0,2,13.0,75.0,6.0,0.829303772831025
-407,Trivento Reserve Malbec,red,Argentina,2020,8.5,8.5,3.8,13,14.0,75.0,2.0,0.9294189257142927
-408,Lindeman's Bin 50 Shiraz,red,Australia,2020,6.5,6.5,0.0,2,14.0,75.0,2.0,0.8129133566428556
-409,Chevaliers St Martin Aop Bordeaux,red,France,2019,5.19,5.19,0.0,2,13.5,75.0,3.0,0.7151673578484579
-410,Morrisons Malbec,red,Argentina,,13.25,4.416666666666667,0.0,2,13.0,225.0,,0.6450946235531643
-411,Yellow Tail Malbec,red,Australia,2019,7.0,7.0,4.6,7,13.5,75.0,3.0,0.8450980400142568
-412,Morrisons Pinot Noir,red,Chile,,4.79,4.79,0.0,4,13.0,75.0,,0.6803355134145632
-413,Workshop Cabernet Sauvignon,red,United Kingdom,,4.79,4.79,0.0,0,13.5,75.0,,0.6803355134145632
-414,Australian Red,red,Australia,Non Vintage,13.0,4.333333333333333,0.0,0,12.5,225.0,,0.6368220975871743
-415,Casilliero del Diablo Reserva Merlot,red,Chile,2020,7.5,7.5,3.3,7,13.5,75.0,2.0,0.8750612633917001
-416,Jam Shed Malbec Argentina,red,Argentina,2019,8.0,8.0,0.0,2,13.0,75.0,3.0,0.9030899869919435
-417,Penasol Sangria (Abv 5%),red,Spain,Non Vintage,3.45,2.5875,0.0,3,5.0,100.0,,0.4128803584649742
-418,Paul Mas Reserve Pinot Noir,red,France,2019,8.75,8.75,0.0,4,13.0,75.0,3.0,0.9420080530223133
-419,McGuigan Reserve Shiraz,red,Australia,2020,7.5,7.5,5.0,10,13.5,75.0,2.0,0.8750612633917001
-420,Morrisons Shiraz,red,Chile,2019,4.79,4.79,0.0,2,13.0,75.0,3.0,0.6803355134145632
-421,Mavrodaphne Of Patras Sweet Red Wine,red,Greece,Non Vintage,5.99,5.99,3.7,10,15.0,75.0,,0.7774268223893114
-422,Barefoot Jammy Red Wine,red,United States,Non Vintage,7.0,7.0,4.0,48,10.5,75.0,,0.8450980400142568
-423,La Vieille Ferme,red,France,2019,6.5,6.5,0.0,3,13.0,75.0,3.0,0.8129133566428556
-424,Le Verdier Cairanne Cotes Durhone Village 75,red,France,2014,10.0,10.0,5.0,9,14.5,75.0,8.0,1.0
-425,Morrisons Pinotage,red,South Africa,,4.79,4.79,0.0,3,13.0,75.0,,0.6803355134145632
-426,Wolf Blass Yellow Label Cabernet Sauvignon,red,Australia,2020,8.5,8.5,0.0,2,14.5,75.0,2.0,0.9294189257142927
-427,Grand Vin De Stellenbosch Cabernet Sauvignon Merlot,red,South Africa,2019,9.0,9.0,0.0,3,13.5,75.0,3.0,0.9542425094393249
-428,Alzar Malbec,red,Argentina,2021,17.0,5.666666666666667,0.0,0,12.5,225.0,1.0,0.7533276666586115
-429,Workshop Australian Red,red,Australia,Non Vintage,4.99,4.99,0.0,0,12.5,75.0,,0.69810054562339
-430,Oyster Bay Merlot,red,New Zealand,2019,11.0,11.0,0.0,2,13.5,75.0,3.0,1.0413926851582251
-431,Carta Roja Pura Jumilla Organic Wine,red,Spain,2019,7.75,7.75,3.5,12,14.0,75.0,3.0,0.8893017025063102
-432,Graham Norton He Devil Rich Crafted Red,red,Argentina,,7.0,7.0,0.0,4,14.5,75.0,,0.8450980400142568
-433,Mcguigan Black Label Shiraz,red,Australia,Non Vintage,7.5,7.5,0.0,4,13.5,75.0,,0.8750612633917001
-434,Vinalba Patagonia Malbec,red,Argentina,2015,10.0,10.0,0.0,5,14.0,75.0,7.0,1.0
-435,McGuigan Reserve Cabernet Sauvignon,red,Australia,2021,7.5,7.5,0.0,3,12.5,75.0,1.0,0.8750612633917001
-436,Morrisons The Best Mulled Wine,red,unknown,Non Vintage,4.99,4.99,0.0,3,11.0,75.0,,0.69810054562339
-437,Vinus By Paul Masmalbec,red,France,2015,8.25,8.25,0.0,2,13.5,75.0,7.0,0.9164539485499251
-438,19 Crimes The Deported,red,Australia,2020,10.0,10.0,3.1,19,13.0,75.0,2.0,1.0
-439,Most Wanted Malbec 75Cl,red,South Africa,2021,7.75,7.75,4.3,16,13.5,75.0,1.0,0.8893017025063102
-440,Jacob's Creek Double Barrel Matured Shiraz Red Wine,red,Australia,,12.0,12.0,0.0,5,14.5,75.0,,1.0791812460476249
-441,Zarper Malbec Gran Reserva,red,Chile,,8.25,8.25,4.3,6,14.0,75.0,,0.9164539485499251
-442,Apothic Cabernet Sauvignon Red Wine,red,United States,2019,10.0,10.0,0.0,0,13.5,75.0,3.0,1.0
-443,Grant Burge Barossa Shiraz 5th Generation,red,Australia,2018,13.0,13.0,0.0,1,14.5,75.0,4.0,1.1139433523068367
-444,Vinalba Malbec,red,Argentina,2012,10.0,10.0,4.3,6,14.5,75.0,10.0,1.0
-445,Comte De Saint Emmanuel,red,France,,11.0,11.0,0.0,1,13.0,75.0,,1.0413926851582251
-446,Freixenet Rioja,red,Spain,2020,7.0,7.0,0.0,1,13.5,75.0,2.0,0.8450980400142568
-447,The Wanderer Malbec,red,Argentina,Non Vintage,12.0,12.0,4.7,31,13.0,75.0,,1.0791812460476249
-448,Campo Viejo Rioja Gran Reserva Red Wine,red,Spain,2014,14.0,14.0,4.4,33,13.5,75.0,8.0,1.146128035678238
-449,Contino Reserva Rioja,red,Spain,2016,25.0,25.0,0.0,0,14.0,75.0,6.0,1.3979400086720377
-450,Jp Chenet Cabernet Syrah,red,France,2019,16.5,5.5,0.0,0,13.0,225.0,3.0,0.7403626894942439
-451,19 Crimes Red Blend,red,Australia,Non Vintage,17.0,8.5,0.0,0,13.5,150.0,,0.9294189257142927
-452,Calvet Cahors Malbec,red,Cahors,2015,8.25,8.25,3.1,7,13.5,75.0,7.0,0.9164539485499251
-453,Penfolds Bin 8 Shiraz Cabernet,red,Australia,,21.0,21.0,0.0,1,14.5,75.0,,1.3222192947339193
-454,Carnivor Zinfandel Red Wine,red,California,2019,10.0,10.0,0.0,0,14.5,75.0,3.0,1.0
-455,Cidade Branca Alentejo,red,Portugal,2019,8.0,8.0,0.0,5,14.0,75.0,3.0,0.9030899869919435
-456,Jacob's Creek Reserve Cabernet Sauvignon,red,Australia,2019,9.0,9.0,0.0,1,14.5,75.0,3.0,0.9542425094393249
-457,Louis Jadot Bourgogne Pinot Noir,red,France,2019,17.0,17.0,0.0,3,13.0,75.0,3.0,1.2304489213782739
-458,Costa Di Bussia Barolo,red,Italy,2012,37.0,37.0,0.0,0,14.5,75.0,10.0,1.568201724066995
-459,Bonpas Vacqueyras,red,France,2019,15.0,15.0,0.0,2,14.0,75.0,3.0,1.1760912590556813
-460,Campo Viejo Winemakers Blend Red Wine,red,Spain,2019,8.25,8.25,0.0,1,13.5,75.0,3.0,0.9164539485499251
-461,Cour Rastignac Medoc,red,France,2019,10.0,10.0,0.0,2,13.5,75.0,3.0,1.0
-462,Piccini Appassimento Leggero,red,Italy,2020,9.0,9.0,0.0,1,14.0,75.0,2.0,0.9542425094393249
-463,Chateau Des Jacques Moulin-A-Vent,red,France,2018,18.0,18.0,0.0,2,13.5,75.0,4.0,1.255272505103306
-464,Chateau Mauriac Bordeaux,red,France,2019,7.5,7.5,0.0,5,13.5,75.0,3.0,0.8750612633917001
-465,Nipozzano Chianti Rufina Riserva,red,Italy,2019,17.0,17.0,0.0,0,13.5,75.0,3.0,1.2304489213782739
-466,Barefoot Chardonnay White Wine,fortified_and_other,United States,Non Vintage,6.75,6.75,4.3,31,13.5,75.0,,0.829303772831025
-467,Schmitt Liebfraumilch,fortified_and_other,Germany,,4.49,4.49,0.0,1,9.0,75.0,,0.6522463410033232
-468,Tamnavulin Sherry Cask Single Malt Scotch Whisky,fortified_and_other,Scotland,,20.0,21.428571428571427,0.0,0,40.0,70.0,,1.3309932190414244
-469,Cockburn's Special Reserve Port,fortified_and_other,: Portugal,Non Vintage,11.5,8.625,0.0,3,20.0,100.0,,0.9357591037453117
-470,Harveys Bristol Cream Sherry,fortified_and_other,Spain,,10.0,10.0,0.0,4,17.5,75.0,,1.0
-471,Dow's Renown Port,fortified_and_other,Portugal,Non Vintage,8.5,8.5,0.0,4,19.0,75.0,,0.9294189257142927
-472,Morrisons The Best Oloroso Sherry,fortified_and_other,Spain,,5.5,11.0,0.0,3,20.0,37.5,,1.0413926851582251
-473,Martini Extra Dry Vermouth,fortified_and_other,Italy,Non Vintage,8.0,8.0,0.0,1,15.0,75.0,,0.9030899869919435
-474,Cockburns Special Reserve,fortified_and_other,: Portugal,Non Vintage,9.0,9.0,0.0,0,20.0,75.0,,0.9542425094393249
-475,Martini Rosso Vermouth,fortified_and_other,Italy,,8.0,8.0,0.0,0,15.0,75.0,,0.9030899869919435
-476,Blandy's Rich Madeira,fortified_and_other,the Island of Madeira,Non Vintage,9.0,9.0,0.0,2,19.0,75.0,,0.9542425094393249
-477,Crabbies Green Ginger Wine,fortified_and_other,United Kingdom,,5.5,5.892857142857143,0.0,3,13.5,70.0,,0.7703259128716871
-478,Taylor's 10 Year Old Tawny,fortified_and_other,Portugal,,17.0,17.0,0.0,0,20.0,75.0,,1.2304489213782739
-479,Martini Bianco Vermouth,fortified_and_other,Italy,Non Vintage,8.0,8.0,0.0,0,15.0,75.0,,0.9030899869919435
-480,Morrisons The Best Pedro Ximenez,fortified_and_other,Spain,,5.5,11.0,4.0,12,17.0,37.5,,1.0413926851582251
-481,Morrisons Cream Sherry,fortified_and_other,Spain,,7.75,5.8125,4.6,11,17.5,100.0,,0.7643629658980103
-482,Morrisons Pale Cream Sherry,fortified_and_other,Spain,,7.5,5.625,0.0,3,17.5,100.0,,0.7501225267834001
-483,Morrisons Fine Green Ginger Wine,fortified_and_other,unknown,,3.75,4.017857142857143,3.8,8,13.5,70.0,,0.6039944911051621
-484,Morrisons Amontillado Sherry,fortified_and_other,Spain,,7.5,5.625,0.0,4,17.5,100.0,,0.7501225267834001
-485,Morrisons Fino Sherry,fortified_and_other,Spain,,5.69,5.69,3.8,12,15.0,75.0,,0.7551122663950712
-486,Stone's Original Green Ginger Wine,fortified_and_other,United Kingdom,Non Vintage,5.49,5.882142857142857,0.0,3,13.5,70.0,,0.7695355678275351
-487,Croft Original Sherry Fine Pale Cream,fortified_and_other,Spain,Non Vintage,12.5,9.375,0.0,1,17.5,100.0,,0.9719712763997564
-488,Morrisons Ruby Port,fortified_and_other,Portugal,,7.49,7.49,0.0,3,19.0,75.0,,0.8744818176994665
-489,Morrisons Vermouth Rosso,fortified_and_other,unknown,,6.0,4.5,5.0,7,14.8,100.0,,0.6532125137753437
-490,Morrisons Manor Hall Fortified British Wine Medium,fortified_and_other,unknown,,6.25,4.6875,0.0,0,15.0,100.0,,0.6709412807357753
-491,Morrisons Vermouth Extra Dry,fortified_and_other,Italy,,6.0,4.5,0.0,0,14.8,100.0,,0.6532125137753437
-492,Morrisons Vermouth Bianco,fortified_and_other,Italy,,6.0,4.5,0.0,1,14.8,100.0,,0.6532125137753437
-493,QC Cream,fortified_and_other,unknown,Non Vintage,4.79,5.132142857142857,0.0,2,15.0,70.0,,0.7102987367920064
-494,Cinzano Bianco (ABV 15%),fortified_and_other,Italy,,8.5,6.375,0.0,0,15.0,100.0,,0.8044801891059927
-495,Morrisons Special Reserve Port,fortified_and_other,Portugal,,8.5,8.5,4.4,8,20.0,75.0,,0.9294189257142927
-496,Wm Morrison Palo Cortado,fortified_and_other,Spain,,6.25,12.5,0.0,2,19.0,37.5,,1.0969100130080565
-497,Morrisons The Best Aged Tawny Port,fortified_and_other,Portugal,,12.5,12.5,0.0,1,20.0,75.0,,1.0969100130080565
-498,W.& J. Graham's Late Bottled Vintage Port,fortified_and_other,Portugal,,14.0,14.0,0.0,4,20.0,75.0,,1.146128035678238
-499,Morrisons Manor Hall Fortified British Wine Cream,fortified_and_other,unknown,,6.25,4.6875,0.0,0,15.0,100.0,,0.6709412807357753
-500,Morrisons Tawny Port,fortified_and_other,Portugal,,7.49,7.49,0.0,2,19.0,75.0,,0.8744818176994665
-501,Old Westminster Pale Cream,fortified_and_other,United Kingdom,Non Vintage,3.99,4.275,0.0,0,13.0,70.0,,0.6309361190641914
-502,Old Westminster Cream Fortified British Wine,fortified_and_other,unknown,,3.99,4.275,0.0,0,13.0,70.0,,0.6309361190641914
-503,Cockburn's Fine Ruby Port,fortified_and_other,Portugal,Non Vintage,10.5,10.5,0.0,0,19.0,75.0,,1.021189299069938
-504,Cornish Blackberry Mead,fortified_and_other,United Kingdom,Non Vintage,8.75,8.75,3.0,6,17.0,75.0,,0.9420080530223133
-505,Sanatogen Original Tonic Wine,fortified_and_other,unknown,Non Vintage,5.75,6.160714285714286,0.0,2,15.0,70.0,,0.7896310680670737
-506,Gonzalez Byass Tio Pepe Fino,fortified_and_other,Spain,Non Vintage,11.0,11.0,0.0,0,15.0,75.0,,1.0413926851582251
-507,Taylor's Late Bottled Vintage Port,fortified_and_other,Portugal,2014,16.0,16.0,0.0,3,20.0,75.0,8.0,1.2041199826559248
-508,Morrisons The Best LBV Port,fortified_and_other,Portugal,,11.5,11.5,0.0,4,20.0,75.0,,1.0606978403536116
+wine_type,size(cL),name,price,rating,num_review,country,abv,year,url,scaled_price,logprice,countrycode,price_fixed,age,score
+white,75,McGuigan Black Label Shiraz,6.75,3.6,13,Australia,12.5,2021,https://groceries.morrisons.com/products/mcguigan-black-label-shiraz-243825011,6.75,0.829303773,AUS,6.75,1,3.6
+white,75,Morrisons The Best Touraine Rose,8,3,4,France,12.5,,https://groceries.morrisons.com/products/morrisons-the-best-touraine-rose-523765011,8,0.903089987,FRA,8,,0
+white,75,McGuigan Black Label Merlot,6.75,4.2,13,Australia,12.5,2021,https://groceries.morrisons.com/products/mcguigan-black-label-merlot-243824011,6.75,0.829303773,AUS,6.75,1,4.2
+white,75,Morrisons The Best South African Sauvignon Blanc,7.5,4,9,Western Cape,12.5,2021,https://groceries.morrisons.com/products/morrisons-the-best-south-african-sauvignon-blanc-119962011,7.5,0.875061263,unknown,7.5,1,4
+white,75,Hardys Nottage Hill Chardonnay,6.75,3.4,5,Australia,13.5,2017,https://groceries.morrisons.com/products/hardys-nottage-hill-chardonnay-119917011,6.75,0.829303773,AUS,6.75,5,0
+white,75,McGuigan Black Label Pinot Grigio,6.75,4.1,7,Australia,11.5,2021,https://groceries.morrisons.com/products/mcguigan-black-label-pinot-grigio-211276011,6.75,0.829303773,AUS,6.75,1,4.1
+white,75,McGuigan Black Label Chardonnay,6.75,2.8,4,Australia,12.5,2021,https://groceries.morrisons.com/products/mcguigan-black-label-chardonnay-119906011,6.75,0.829303773,AUS,6.75,1,0
+white,75,Morrisons The Best Marlborough Sauvignon Blanc,9,3.7,3,New Zealand,12.5,2019,https://groceries.morrisons.com/products/morrisons-the-best-marlborough-sauvignon-blanc-283660011,9,0.954242509,NZL,9,3,0
+white,75,Veluti Pinot Grigio,6.25,3.8,13,Italy,12.5,2020,https://groceries.morrisons.com/products/veluti-pinot-grigio-274532011,6.25,0.795880017,ITA,6.25,2,3.8
+white,75,The Ned Sauvignon Blanc,10,4.8,4,New Zealand,13,2020,https://groceries.morrisons.com/products/the-ned-sauvignon-blanc-349453011,10,1,NZL,10,2,0
+white,75,Mud House Chile Sauvignon Blanc,5.99,2.3,3,Chile,12.5,2021,https://groceries.morrisons.com/products/mud-house-chile-sauvignon-blanc-568751011,5.99,0.777426822,CHL,5.99,1,0
+white,75,Mud House Marlborough Sauvignon Blanc,9,4.4,11,New Zealand,12.5,2020,https://groceries.morrisons.com/products/mud-house-marlborough-sauvignon-blanc-263684011,9,0.954242509,NZL,9,2,4.4
+white,75,Rosemount Diamond Selection Chardonnay,5.49,3,4,Australia,12.5,2019,https://groceries.morrisons.com/products/rosemount-diamond-selection-chardonnay-119923011,5.49,0.739572344,AUS,5.49,3,0
+white,75,Klein St Sauvignon Blanc,6,0,0,South Africa,12.5,2021,https://groceries.morrisons.com/products/klein-st-sauvignon-blanc-421210011,6,0.77815125,ZAF,6,1,0
+white,75,Hardys Bankside Chardonnay,6.5,5,5,Australia,12.5,2017,https://groceries.morrisons.com/products/hardys-bankside-chardonnay-212328011,6.5,0.812913357,AUS,6.5,5,0
+white,75,I Heart Pinot Grigio,6,5,1,Hungary,12,NV,https://groceries.morrisons.com/products/i-heart-pinot-grigio-451873011,6,0.77815125,HUN,6,,0
+white,75,Primo Vere Pinot Grigio,6.75,3.8,9,Italy,12.5,2020,https://groceries.morrisons.com/products/primo-vere-pinot-grigio-273278011,6.75,0.829303773,ITA,6.75,2,3.8
+white,75,Jam Shed Chardonnay Australia,6,5,3,Australia,13.5,2020,https://groceries.morrisons.com/products/jam-shed-chardonnay-australia-551479011,6,0.77815125,AUS,6,2,0
+white,75,Morrisons The Best Trentino Pinot Grigio,7.25,3.5,6,Italy,12.5,2015,https://groceries.morrisons.com/products/morrisons-the-best-trentino-pinot-grigio-119880011,7.25,0.860338007,ITA,7.25,7,3.5
+white,75,Wolf Blass Vineyards Chardonnay,6.5,3.7,3,Australia,13,2012,https://groceries.morrisons.com/products/wolf-blass-vineyards-chardonnay-119918011,6.5,0.812913357,AUS,6.5,10,0
+white,75,Yellow Tail Pinot Grigio,6,5,3,Australia,11.5,2020,https://groceries.morrisons.com/products/yellow-tail-pinot-grigio-294018011,6,0.77815125,AUS,6,2,0
+white,75,Casillero del Diablo Reserva Sauvignon Blanc,6.5,4.8,5,unknown,12,2021,https://groceries.morrisons.com/products/casillero-del-diablo-reserva-sauvignon-blanc-119958011,6.5,0.812913357,unknown,6.5,1,0
+white,75,Kumala Sauvignon Blanc,6.25,0,0,South Africa,13,2017,https://groceries.morrisons.com/products/kumala-sauvignon-blanc-525693011,6.25,0.795880017,ZAF,6.25,5,0
+white,75,Squealing Pig Sauvignon Blanc,10,3.7,3,New Zealand,13.5,2018,https://groceries.morrisons.com/products/squealing-pig-sauvignon-blanc-480656011,10,1,NZL,10,4,0
+white,75,I Heart Sauvignon Blanc,6,3,2,Spain,11.5,,https://groceries.morrisons.com/products/i-heart-sauvignon-blanc-525861011,6,0.77815125,ESP,6,,0
+white,75,Morrisons The Best Gavi,9,4,1,Italy,12.5,2015,https://groceries.morrisons.com/products/morrisons-the-best-gavi-119879011,9,0.954242509,ITA,9,7,0
+white,75,Wolf Blass Yellow Label Chardonnay,6.5,4,5,Australia,13,NV,https://groceries.morrisons.com/products/wolf-blass-yellow-label-chardonnay-212433011,6.5,0.812913357,AUS,6.5,,0
+white,75,Yealands Reserve Sauvignon Blanc,7.99,5,1,New Zealand,13,2019,https://groceries.morrisons.com/products/yealands-reserve-sauvignon-blanc-565446011,7.99,0.902546779,NZL,7.99,3,0
+white,75,Cono Sur Bicicleta  Sauvignon Blanc,5.75,3.6,5,Chile,13,2021,https://groceries.morrisons.com/products/cono-sur-bicicleta-sauvignon-blanc-247962011,5.75,0.759667845,CHL,5.75,1,0
+white,75,Morrisons The Best Chardonnay,7.75,4.3,4,South Africa,13.5,2018,https://groceries.morrisons.com/products/morrisons-the-best-chardonnay-392549011,7.75,0.889301703,ZAF,7.75,4,0
+white,75,Turner Road Reserve Chardonnay,6.5,3.8,5,California,12.5,2016,https://groceries.morrisons.com/products/turner-road-reserve-chardonnay-212332011,6.5,0.812913357,unknown,6.5,6,0
+white,75,Morrisons The Best Muscadet Serve Et Maine Sur Lie,8.5,4.1,7,France,12,2015,https://groceries.morrisons.com/products/morrisons-the-best-muscadet-serve-et-maine-sur-lie-321365011,8.5,0.929418926,FRA,8.5,7,4.1
+white,18.7,Mcguigan Black Label Chardonnay 187Ml,2.25,0,0,Australia,12.5,2020,https://groceries.morrisons.com/products/mcguigan-black-label-chardonnay-187ml-552691011,9.024064171,0.955402175,AUS,2.25,2,0
+white,75,Black Tower Fruity White,6,3.7,3,Produce of the EU,9.5,2021,https://groceries.morrisons.com/products/black-tower-fruity-white-119864011,6,0.77815125,unknown,6,1,0
+white,75,Morrisons The Best Chenin Blanc,8,4.7,9,Western Cape,12.5,2021,https://groceries.morrisons.com/products/morrisons-the-best-chenin-blanc-119967011,8,0.903089987,unknown,8,1,4.7
+white,18.7,Yellow Tail Pinot Grigio,2.49,0,0,Australia,11.5,2019,https://groceries.morrisons.com/products/yellow-tail-pinot-grigio-551903011,9.986631016,0.999419004,AUS,2.49,3,0
+white,75,Morrisons The Best Pecorino,7.25,3.8,5,Italy,13,2015,https://groceries.morrisons.com/products/morrisons-the-best-pecorino-370263011,7.25,0.860338007,ITA,7.25,7,0
+white,75,Brancott Estate Terroir Series Reserve Sauvignon Blanc,9,4.5,6,New Zealand,13,2020,https://groceries.morrisons.com/products/brancott-estate-terroir-series-reserve-sauvignon-blanc-482570011,9,0.954242509,NZL,9,2,4.5
+white,75,Chapmans Bay Sauvignon Blanc,6,0,0,South Africa,12.5,2021,https://groceries.morrisons.com/products/chapmans-bay-sauvignon-blanc-565445011,6,0.77815125,ZAF,6,1,0
+white,75,Morrisons The Best Western Australia Chardonnay,8.5,3.7,3,Australia,13,2018,https://groceries.morrisons.com/products/morrisons-the-best-western-australia-chardonnay-349451011,8.5,0.929418926,AUS,8.5,4,0
+white,75,Morrisons The Best Touraine Sauvignon,9,3.5,2,France,12.5,2015,https://groceries.morrisons.com/products/morrisons-the-best-touraine-sauvignon-119846011,9,0.954242509,FRA,9,7,0
+white,75,Morrisons The Best Marques de los Rios Rioja Blanco,8,3.3,3,Spain,13,2020,https://groceries.morrisons.com/products/morrisons-the-best-marques-de-los-rios-rioja-blanco-383075011,8,0.903089987,ESP,8,2,0
+white,75,The Signal Post Chenin Blanc,7.25,0,0,South Africa,12.5,2020,https://groceries.morrisons.com/products/the-signal-post-chenin-blanc-578067011,7.25,0.860338007,ZAF,7.25,2,0
+white,75,Zarper Sauvignon Blanc Gran Reserva,6.5,4,2,Chile,12.5,,https://groceries.morrisons.com/products/zarper-sauvignon-blanc-gran-reserva-378130011,6.5,0.812913357,CHL,6.5,,0
+white,75,Morrisons The Best Soave Classico,7.75,4,6,Italy,12,2016,https://groceries.morrisons.com/products/morrisons-the-best-soave-classico-119894011,7.75,0.889301703,ITA,7.75,6,4
+white,75,Zalze Bush Vine Chenin Blanc,6,0,0,South Africa,13,2021,https://groceries.morrisons.com/products/zalze-bush-vine-chenin-blanc-352604011,6,0.77815125,ZAF,6,1,0
+white,75,Head Honcho Sauvignon Blanc,6,3,4,Chile,12.5,2018,https://groceries.morrisons.com/products/head-honcho-sauvignon-blanc-349455011,6,0.77815125,CHL,6,4,0
+white,75,Morrisons The Best Verdicchio,7.25,4.1,8,Italy,12.5,2015,https://groceries.morrisons.com/products/morrisons-the-best-verdicchio-243049011,7.25,0.860338007,ITA,7.25,7,4.1
+white,75,Gallo Family Vineyards Pinot Grigio White Wine,5.75,0,0,United States,11.5,2019,https://groceries.morrisons.com/products/gallo-family-vineyards-pinot-grigio-white-wine-119940011,5.75,0.759667845,USA,5.75,3,0
+white,75,Morrisons The Best Gruner Veltliner,8.75,4.5,10,Austria,12.5,2020,https://groceries.morrisons.com/products/morrisons-the-best-gruner-veltliner-253768011,8.75,0.942008053,AUT,8.75,2,4.5
+white,75,Morrisons The Best Falanghina,7.5,4,3,Italy,12.5,,https://groceries.morrisons.com/products/morrisons-the-best-falanghina-421302011,7.5,0.875061263,ITA,7.5,,0
+white,75,Blossom Hill White Wine,6,5,1,Spain,12.5,,https://groceries.morrisons.com/products/blossom-hill-white-wine-570809011,6,0.77815125,ESP,6,,0
+white,18.7,I Heart Pinot Grigio,2.25,0,0,Italy,12,2020,https://groceries.morrisons.com/products/i-heart-pinot-grigio-551909011,9.024064171,0.955402175,ITA,2.25,2,0
+white,75,Dark Horse Chardonnay White Wine,7,4.5,34,United States,14.5,2019,https://groceries.morrisons.com/products/dark-horse-chardonnay-white-wine-411825011,7,0.84509804,USA,7,3,4.5
+white,75,Italia Pinot Grigio,7.5,3.8,4,unknown,14.5,2018,https://groceries.morrisons.com/products/italia-pinot-grigio-119886011,7.5,0.875061263,unknown,7.5,4,0
+white,75,Morrisons The Best Vouvray,10,3.4,10,France,12.5,,https://groceries.morrisons.com/products/morrisons-the-best-vouvray-310345011,10,1,FRA,10,,3.4
+white,75,Gary Barlow Organic White Wine,6,3.5,2,Spain,12,2020,https://groceries.morrisons.com/products/gary-barlow-organic-white-wine-570470011,6,0.77815125,ESP,6,2,0
+white,75,Oyster Bay Chardonnay,7.99,5,2,New Zealand,13,2019,https://groceries.morrisons.com/products/oyster-bay-chardonnay-295948011,7.99,0.902546779,NZL,7.99,3,0
+white,75,Morrisons The Best Alsace Gewurztraminer,10,4.1,16,France,14,2014,https://groceries.morrisons.com/products/morrisons-the-best-alsace-gewurztraminer-119848011,10,1,FRA,10,8,4.1
+white,75,Freixenet Pinot Grigio,8.5,0,0,Italy,11.5,2019,https://groceries.morrisons.com/products/freixenet-pinot-grigio-523578011,8.5,0.929418926,ITA,8.5,3,0
+white,18.7,Head Honcho Sauvignon Blanc,2,1,1,Chile,12,,https://groceries.morrisons.com/products/head-honcho-sauvignon-blanc-562925011,8.021390374,0.904249653,CHL,2,,0
+white,75,Morrisons The Best Canto Real Rueda,7.75,3.8,6,Spain,13,,https://groceries.morrisons.com/products/morrisons-the-best-canto-real-rueda-119965011,7.75,0.889301703,ESP,7.75,,3.8
+white,75,Morrisons The Best Vinho Verde 'Loureiro' Wine,8.75,4.3,4,Portugal,12,2020,https://groceries.morrisons.com/products/morrisons-the-best-vinho-verde-loureiro-wine-551489011,8.75,0.942008053,PRT,8.75,2,0
+white,75,Morrisons The Best Pinot Grigio Alto Adige Doc,10,3,1,Italy,13,,https://groceries.morrisons.com/products/morrisons-the-best-pinot-grigio-alto-adige-doc-552695011,10,1,ITA,10,,0
+white,75,Morrisons The Best Pinot Gris,9,3.3,4,France,13.5,2013,https://groceries.morrisons.com/products/morrisons-the-best-pinot-gris-261687011,9,0.954242509,FRA,9,9,0
+white,18.7,Blossom Hill White Wine,2,0,0,Spain,12.5,NV,https://groceries.morrisons.com/products/blossom-hill-white-wine-570807011,8.021390374,0.904249653,ESP,2,,0
+white,75,Morrisons Organic Pinot Grigio,7.25,2.9,8,Italy,11.5,2018,https://groceries.morrisons.com/products/morrisons-organic-pinot-grigio-421208011,7.25,0.860338007,ITA,7.25,4,2.9
+white,18.7,Barefoot White Zinfandel Rose Wine,2.25,0,0,United States,8.5,NV,https://groceries.morrisons.com/products/barefoot-white-zinfandel-rose-wine-555995011,9.024064171,0.955402175,USA,2.25,,0
+white,75,Morrisons The Best Pouilly Fume,14,4,2,France,13,2015,https://groceries.morrisons.com/products/morrisons-the-best-pouilly-fume-310370011,14,1.146128036,FRA,14,7,0
+white,75,Morrisons The Best Sancerre,17,2.7,3,France,13.5,2020,https://groceries.morrisons.com/products/morrisons-the-best-sancerre-480632011,17,1.230448921,FRA,17,2,0
+white,75,Mad Fish Sauvignon Blanc,7,0,0,Western Australia,13,2020,https://groceries.morrisons.com/products/mad-fish-sauvignon-blanc-565441011,7,0.84509804,unknown,7,2,0
+white,75,Morrisons The Best Riesling,8.5,3.5,8,Germany,12.5,2020,https://groceries.morrisons.com/products/morrisons-the-best-riesling-437970011,8.5,0.929418926,DEU,8.5,2,3.5
+white,75,Morrisons The Best Chardonnay,8.75,3.2,6,Argentina,13,2016,https://groceries.morrisons.com/products/morrisons-the-best-chardonnay-410535011,8.75,0.942008053,ARG,8.75,6,3.2
+white,75,Head Honcho Chardonnay,6,4,4,Chile,13.5,2018,https://groceries.morrisons.com/products/head-honcho-chardonnay-349454011,6,0.77815125,CHL,6,4,0
+white,75,Barefoot Sauvignon Blanc White Wine,6,5,4,U,13,NV,https://groceries.morrisons.com/products/barefoot-sauvignon-blanc-white-wine-119942011,6,0.77815125,unknown,6,,0
+white,75,Freixenet Sauvignon Blanc,7,3,1,unknown,13,2020,https://groceries.morrisons.com/products/freixenet-sauvignon-blanc-578065011,7,0.84509804,unknown,7,2,0
+white,75,Echo Falls Pinot Grigio Rose,6.5,0,0,Italy,12,2019,https://groceries.morrisons.com/products/echo-falls-pinot-grigio-rose-551483011,6.5,0.812913357,ITA,6.5,3,0
+white,75,Morrisons The Best Chablis Premier Cru,18,2.7,3,France,13,2012,https://groceries.morrisons.com/products/morrisons-the-best-chablis-premier-cru-119839011,18,1.255272505,FRA,18,10,0
+white,225,Ortense Pinot Grigio Terre Di Chieti,13.5,0,0,Italy,12.5,,https://groceries.morrisons.com/products/ortense-pinot-grigio-terre-di-chieti-591900011,4.5,0.653212514,ITA,13.5,,0
+white,75,Rigal Vin Orange 75Cl,10,4,3,France,12,,https://groceries.morrisons.com/products/rigal-vin-orange-75cl-533890011,10,1,FRA,10,,0
+white,75,Charles Rousseau Sauvignon Blanc,8,4,3,France,11.5,2019,https://groceries.morrisons.com/products/charles-rousseau-sauvignon-blanc-527195011,8,0.903089987,FRA,8,3,0
+white,75,Diablo Golden Chardonnay,10,0,0,Chile,13.5,2020,https://groceries.morrisons.com/products/diablo-golden-chardonnay-588186011,10,1,CHL,10,2,0
+white,37.5,Morrisons The Best Bortytis Semillon,6,3.3,3,Australia,11.5,2017,https://groceries.morrisons.com/products/morrisons-the-best-bortytis-semillon-378129011,12,1.079181246,AUS,6,5,0
+white,75,Fleurs De Prairie Luberon,8,4,2,France,13,,https://groceries.morrisons.com/products/fleurs-de-prairie-luberon-523744011,8,0.903089987,FRA,8,,0
+white,75,Errazuriz Sauvignon Blanc,9,4.3,3,Chile,13,2020,https://groceries.morrisons.com/products/errazuriz-sauvignon-blanc-261081011,9,0.954242509,CHL,9,2,0
+white,75,Moillard Chablis,13.5,0,0,France,12.5,2021,https://groceries.morrisons.com/products/moillard-chablis-583449011,13.5,1.130333768,FRA,13.5,1,0
+white,75,Morrisons The Best Grenache Blanc,8,4,3,South Africa,12.5,2020,https://groceries.morrisons.com/products/morrisons-the-best-grenache-blanc-500606011,8,0.903089987,ZAF,8,2,0
+white,75,Kylie Minogue Sauvignon Blanc,9,4,2,France,11.5,2019,https://groceries.morrisons.com/products/kylie-minogue-sauvignon-blanc-546519011,9,0.954242509,FRA,9,3,0
+white,75,Morrisons The Best Verdeca Igp 2021,8.5,0,0,Italy,12.5,,https://groceries.morrisons.com/products/morrisons-the-best-verdeca-igp-2021-589697011,8.5,0.929418926,ITA,8.5,,0
+white,75,Hardys Nottage Hill Pinot Grigio,6.5,0,0,Australia,12,2021,https://groceries.morrisons.com/products/hardys-nottage-hill-pinot-grigio-583434011,6.5,0.812913357,AUS,6.5,1,0
+white,75,Terramare Pinot Grigio,4.99,0,0,Italy,11.5,2021,https://groceries.morrisons.com/products/terramare-pinot-grigio-586525011,4.99,0.698100546,ITA,4.99,1,0
+white,75,Ortense Pinot Grigio Terre Di Chieti,4.99,0,0,Italy,12.5,,https://groceries.morrisons.com/products/ortense-pinot-grigio-terre-di-chieti-590049011,4.99,0.698100546,ITA,4.99,,0
+white,225,64 Edge South African Sauvignon Blanc,16,0,0,South Africa,13,2021,https://groceries.morrisons.com/products/64-edge-south-african-sauvignon-blanc-575443011,5.333333333,0.726998728,ZAF,16,1,0
+white,75,Maremel Albarino,12,0,0,Spain,12.5,2021,https://groceries.morrisons.com/products/maremel-albarino-588188011,12,1.079181246,ESP,12,1,0
+white,75,Wise Wolf Chardonnay,10,0,0,France,13.5,2021,https://groceries.morrisons.com/products/wise-wolf-chardonnay-589686011,10,1,FRA,10,1,0
+white,75,Cidade Branca White,8,0,0,Portugal,13,2021,https://groceries.morrisons.com/products/cidade-branca-white-588185011,8,0.903089987,PRT,8,1,0
+white,75,Mirabeau La Folie Sparkling Rose,12,0,0,France,12.5,NV,https://groceries.morrisons.com/products/mirabeau-la-folie-sparkling-rose-591431011,12,1.079181246,FRA,12,,0
+white,75,Morrisons The Best Vermentino,7,3,8,Italy,13.5,2017,https://groceries.morrisons.com/products/morrisons-the-best-vermentino-248291011,7,0.84509804,ITA,7,5,3
+white,75,Eleanor La Reine Piquepoul - Terret Cotes De Thau IGP,8,0,0,France,12.5,,https://groceries.morrisons.com/products/eleanor-la-reine-piquepoul-terret-cotes-de-thau-igp-595784011,8,0.903089987,FRA,8,,0
+white,75,Hardys Nottage Hill Sauvignon Blanc,6.5,1,1,Australia,12.5,2017,https://groceries.morrisons.com/products/hardys-nottage-hill-sauvignon-blanc-551916011,6.5,0.812913357,AUS,6.5,5,0
+white,75,McGuigan Black Label Sauvignon Blanc,6.75,0,0,Australia,12,2020,https://groceries.morrisons.com/products/mcguigan-black-label-sauvignon-blanc-591432011,6.75,0.829303773,AUS,6.75,2,0
+white,75,Sorso Pinot Grigio,4.99,4.6,10,Italy,12.5,2018,https://groceries.morrisons.com/products/sorso-pinot-grigio-273277011,4.99,0.698100546,ITA,4.99,4,4.6
+white,75,Villa Maria Private Bin Sauvignon Blanc,10.5,4.4,13,Marlborough,13.5,2021,https://groceries.morrisons.com/products/villa-maria-private-bin-sauvignon-blanc-211701011,10.5,1.021189299,unknown,10.5,1,4.4
+white,75,Morrisons Sauvignon Blanc,4.89,5,3,Chile,12,,https://groceries.morrisons.com/products/morrisons-sauvignon-blanc-421256011,4.89,0.689308859,CHL,4.89,,0
+white,75,Morrisons Soave,4.89,5,4,Italy,11,,https://groceries.morrisons.com/products/morrisons-soave-421206011,4.89,0.689308859,ITA,4.89,,0
+white,75,64 Edge Sauvignon Blanc,5.49,3,1,South Africa,13,2021,https://groceries.morrisons.com/products/64-edge-sauvignon-blanc-570043011,5.49,0.739572344,ZAF,5.49,1,0
+white,75,Barefoot Pinot Grigio White Wine,6.75,4.8,8,United States,12,NV,https://groceries.morrisons.com/products/barefoot-pinot-grigio-white-wine-243689011,6.75,0.829303773,USA,6.75,,4.8
+white,75,Schmitt Liebfraumilch,4.49,2,1,Germany,9,,https://groceries.morrisons.com/products/schmitt-liebfraumilch-421228011,4.49,0.652246341,DEU,4.49,,0
+white,75,The Shy Pig Crisp White,4.79,3.3,15,Australia,10.5,NV,https://groceries.morrisons.com/products/the-shy-pig-crisp-white-273013011,4.79,0.680335513,AUS,4.79,,3.3
+white,75,Yellow Tail Chardonnay,7,0,0,Australia,13,2020,https://groceries.morrisons.com/products/yellow-tail-chardonnay-523753011,7,0.84509804,AUS,7,2,0
+white,75,Graham Norton Sauvignon Blanc,6,0,0,South Africa,12.5,2021,https://groceries.morrisons.com/products/graham-norton-sauvignon-blanc-577569011,6,0.77815125,ZAF,6,1,0
+white,75,Schmitt Hock,4.49,2.8,5,Germany,9,,https://groceries.morrisons.com/products/schmitt-hock-421229011,4.49,0.652246341,DEU,4.49,,0
+white,75,Fairbank Wines Sauvignon Blanc,7,0,0,South Africa,12.5,2021,https://groceries.morrisons.com/products/fairbank-wines-sauvignon-blanc-500613011,7,0.84509804,ZAF,7,1,0
+white,75,Oyster Bay Sauvignon Blanc,10.5,4.8,8,New Zealand,13,2020,https://groceries.morrisons.com/products/oyster-bay-sauvignon-blanc-119932011,10.5,1.021189299,NZL,10.5,2,4.8
+white,75,Cape Shadow Sauvignon Blanc,4.99,2.5,2,South Africa,12.5,2020,https://groceries.morrisons.com/products/cape-shadow-sauvignon-blanc-568752011,4.99,0.698100546,ZAF,4.99,2,0
+white,100,Felix Solis Sol de Espana White Wine,5.19,3.3,3,Spain,11,NV,https://groceries.morrisons.com/products/felix-solis-sol-de-espana-white-wine-119870011,3.8925,0.590228621,ESP,5.19,,0
+white,75,19 Crimes Chardonnay,9,4.2,13,Australia,13.5,2020,https://groceries.morrisons.com/products/19-crimes-chardonnay-470781011,9,0.954242509,AUS,9,2,4.2
+white,75,Oxford Landing Sauvignon Blanc,6.75,5,3,Australia,10.5,2021,https://groceries.morrisons.com/products/oxford-landing-sauvignon-blanc-119903011,6.75,0.829303773,AUS,6.75,1,0
+white,75,Oxford Landing Chardonnay,6.75,4.5,2,Australia,13,2020,https://groceries.morrisons.com/products/oxford-landing-chardonnay-119901011,6.75,0.829303773,AUS,6.75,2,0
+white,75,Lindeman's Bin 65 Chardonnay,6.5,3.7,3,Australia,13,2017,https://groceries.morrisons.com/products/lindeman-s-bin-65-chardonnay-212329011,6.5,0.812913357,AUS,6.5,5,0
+white,75,Torres Vina Sol,7.5,4.5,4,Spain,12,2020,https://groceries.morrisons.com/products/torres-vina-sol-119871011,7.5,0.875061263,ESP,7.5,2,0
+white,75,Silver Bay Point White,3.89,3.6,5,British,8,Non Vintage,https://groceries.morrisons.com/products/silver-bay-point-white-119984011,3.89,0.589949601,unknown,3.89,,0
+white,75,Gallo Family Vineyards Moscato White Wine,6,5,1,California,9,2019,https://groceries.morrisons.com/products/gallo-family-vineyards-moscato-white-wine-212334011,6,0.77815125,unknown,6,3,0
+white,75,Silver Mine Sauvignon Blanc,4.79,4,1,Bulgaria,12,2021,https://groceries.morrisons.com/products/silver-mine-sauvignon-blanc-587791011,4.79,0.680335513,BGR,4.79,1,0
+white,75,Kendermanns Riesling Spatlese,8.5,4.3,7,Germany,9,2020,https://groceries.morrisons.com/products/kendermanns-riesling-spatlese-261858011,8.5,0.929418926,DEU,8.5,2,4.3
+white,75,Wolf Blass Red Label Chardonnay Semillon,7,3.7,3,Australia,12.5,2014,https://groceries.morrisons.com/products/wolf-blass-red-label-chardonnay-semillon-119916011,7,0.84509804,AUS,7,8,0
+white,75,Brancott Estate Sauvignon Blanc White Wine,9.5,4.7,39,New Zealand,12.5,2016,https://groceries.morrisons.com/products/brancott-estate-sauvignon-blanc-white-wine-119927011,9.5,0.977723605,NZL,9.5,6,4.7
+white,75,Daybreak Sauvignon Blanc,8,4.2,6,New Zealand,12,2017,https://groceries.morrisons.com/products/daybreak-sauvignon-blanc-406231011,8,0.903089987,NZL,8,5,4.2
+white,75,Most Wanted Pinot Grigio,7.75,4.7,12,Italy,12,2020,https://groceries.morrisons.com/products/most-wanted-pinot-grigio-500623011,7.75,0.889301703,ITA,7.75,2,4.7
+white,75,Echo Falls White,5.19,4,2,United States,11.5,NV,https://groceries.morrisons.com/products/echo-falls-white-212333011,5.19,0.715167358,USA,5.19,,0
+white,75,Casillero del Diablo Reserva Chardonnay,7.5,4,5,Chile,13,2021,https://groceries.morrisons.com/products/casillero-del-diablo-reserva-chardonnay-119957011,7.5,0.875061263,CHL,7.5,1,0
+white,75,Barefoot Chardonnay White Wine,6.75,4.3,31,United States,13.5,NV,https://groceries.morrisons.com/products/barefoot-chardonnay-white-wine-379847011,6.75,0.829303773,USA,6.75,,4.3
+white,75,Workshop Australia White,4.99,5,1,Australia,11.5,NV,https://groceries.morrisons.com/products/workshop-australia-white-557785011,4.99,0.698100546,AUS,4.99,,0
+white,75,19 Crimes Sauvignon Block,9,4,6,Australia,12,2020,https://groceries.morrisons.com/products/19-crimes-sauvignon-block-546527011,9,0.954242509,AUS,9,2,4
+white,225,Morrisons The Best Pinot Grigio,18,5,1,Italy,12.5,,https://groceries.morrisons.com/products/morrisons-the-best-pinot-grigio-530798011,6,0.77815125,ITA,18,,0
+white,75,Morrisons Chenin Blanc,4.79,4,2,South Africa,11.5,2019,https://groceries.morrisons.com/products/morrisons-chenin-blanc-421254011,4.79,0.680335513,ZAF,4.79,3,0
+white,75,Yellow Tail Sauvignon Blanc,7,5,1,Australia,11.5,2020,https://groceries.morrisons.com/products/yellow-tail-sauvignon-blanc-377187011,7,0.84509804,AUS,7,2,0
+white,75,Giesen Estate Sauvignon Blanc Wine,9,4.8,8,New Zealand,12.5,2020,https://groceries.morrisons.com/products/giesen-estate-sauvignon-blanc-wine-324148011,9,0.954242509,NZL,9,2,4.8
+white,75,Most Wanted Chardonnay,7.75,5,1,Australia,13.5,,https://groceries.morrisons.com/products/most-wanted-chardonnay-583428011,7.75,0.889301703,AUS,7.75,,0
+white,75,Silver Mine Chardonnay,4.79,0,0,Bulgaria,12,2021,https://groceries.morrisons.com/products/silver-mine-chardonnay-587790011,4.79,0.680335513,BGR,4.79,1,0
+white,75,Te Pa Signature Series Sauvignon Blanc,10,4.3,3,New Zealand,13,2020,https://groceries.morrisons.com/products/te-pa-signature-series-sauvignon-blanc-565448011,10,1,NZL,10,2,0
+white,75,McGuigan Reserve Chardonnay,7,3.7,3,Australia,13,2021,https://groceries.morrisons.com/products/mcguigan-reserve-chardonnay-119900011,7,0.84509804,AUS,7,1,0
+white,75,64 Edge Marlborough Sauvignon Blanc,9,5,4,New Zealand,13,2019,https://groceries.morrisons.com/products/64-edge-marlborough-sauvignon-blanc-406230011,9,0.954242509,NZL,9,3,0
+white,75,Villa Maria Sauvignon Blanc Cellar Selection,12,0,0,New Zealand,14,2020,https://groceries.morrisons.com/products/villa-maria-sauvignon-blanc-cellar-selection-553789011,12,1.079181246,NZL,12,2,0
+white,75,Stoneleigh Sauvignon Blanc White Wine,10,4.5,4,New Zealand,13,2020,https://groceries.morrisons.com/products/stoneleigh-sauvignon-blanc-white-wine-552693011,10,1,NZL,10,2,0
+white,75,Cono Sur Bicicleta Viognier,7.5,4.5,4,Chile,13.5,2022,https://groceries.morrisons.com/products/cono-sur-bicicleta-viognier-119954011,7.5,0.875061263,CHL,7.5,0,0
+white,75,Gallo Family Vineyards Chardonnay White Wine,6,4.3,3,U,13,2019,https://groceries.morrisons.com/products/gallo-family-vineyards-chardonnay-white-wine-119943011,6,0.77815125,unknown,6,3,0
+white,75,Workshop Bench Blend Sauvignon Blanc,4.79,2.5,6,Australia,11,2018,https://groceries.morrisons.com/products/workshop-bench-blend-sauvignon-blanc-451530011,4.79,0.680335513,AUS,4.79,4,2.5
+white,75,Campo Viejo Rioja Blanco White Wine,8.25,4,2,Spain,12.5,2020,https://groceries.morrisons.com/products/campo-viejo-rioja-blanco-white-wine-380786011,8.25,0.916453949,ESP,8.25,2,0
+white,150,Barefoot On Tap Pinot Grigio White Wine,13,4.6,31,United States,12,NV,https://groceries.morrisons.com/products/barefoot-on-tap-pinot-grigio-white-wine-551911011,6.5,0.812913357,USA,13,,4.6
+white,150,Barefoot On Tap White Zinfandel Rose Wine,13,4.6,31,United States,8,NV,https://groceries.morrisons.com/products/barefoot-on-tap-white-zinfandel-rose-wine-551910011,6.5,0.812913357,USA,13,,4.6
+white,75,Louis Alexandre Sauvignon Blanc,7.5,3.2,5,France,11.5,2014,https://groceries.morrisons.com/products/louis-alexandre-sauvignon-blanc-287466011,7.5,0.875061263,FRA,7.5,8,0
+white,75,The Horologist Sauvignon Blanc,9,4.3,15,New Zealand,13,2020,https://groceries.morrisons.com/products/the-horologist-sauvignon-blanc-304215011,9,0.954242509,NZL,9,2,4.3
+white,75,Squealing Pig Chardonnay,10,0,0,Australia,13,2018,https://groceries.morrisons.com/products/squealing-pig-chardonnay-480651011,10,1,AUS,10,4,0
+white,75,Florio Vecchioflorio Marsala Superiore Dolce,11,0,0,Italy,18,2017,https://groceries.morrisons.com/products/florio-vecchioflorio-marsala-superiore-dolce-551490011,11,1.041392685,ITA,11,5,0
+white,75,McGuigan Reserve Pinot Grigio,7.5,0,0,Australia,12,2021,https://groceries.morrisons.com/products/mcguigan-reserve-pinot-grigio-533873011,7.5,0.875061263,AUS,7.5,1,0
+white,75,Penfolds Koonunga Hill Chardonnay,10,0,0,Australia,13.5,2019,https://groceries.morrisons.com/products/penfolds-koonunga-hill-chardonnay-533891011,10,1,AUS,10,3,0
+white,75,Trivento White Malbec,7,5,1,Argentina,12,2021,https://groceries.morrisons.com/products/trivento-white-malbec-583432011,7,0.84509804,ARG,7,1,0
+white,75,McGuigan Reserve Sauv Blanc,7.5,4,2,Australia,12.5,2021,https://groceries.morrisons.com/products/mcguigan-reserve-sauv-blanc-480660011,7.5,0.875061263,AUS,7.5,1,0
+white,75,The Wanted Chardonnay,8.5,4.8,4,Italy,14,2020,https://groceries.morrisons.com/products/the-wanted-chardonnay-552692011,8.5,0.929418926,ITA,8.5,2,0
+white,75,Morrisons The Best Chablis,16,3,4,France,12.5,,https://groceries.morrisons.com/products/morrisons-the-best-chablis-119834011,16,1.204119983,FRA,16,,0
+white,75,Vinus By Paul MasClairette,8.5,4,3,France,12.5,2019,https://groceries.morrisons.com/products/vinus-by-paul-masclairette-289359011,8.5,0.929418926,FRA,8.5,3,0
+white,75,64 Edge Sauvignon Blanc,7,0,0,Chile,12.5,2021,https://groceries.morrisons.com/products/64-edge-sauvignon-blanc-570686011,7,0.84509804,CHL,7,1,0
+white,75,McGuigan BIN 156 Chardonnay,5.19,0,0,Australia,12,2018,https://groceries.morrisons.com/products/mcguigan-bin-156-chardonnay-243823011,5.19,0.715167358,AUS,5.19,4,0
+white,37.5,Morrisons The Best Sauternes,12,0,0,France,14,,https://groceries.morrisons.com/products/morrisons-the-best-sauternes-557791011,24,1.380211242,FRA,12,,0
+rose,75,Morrisons The Best Marques de los Rios Rioja Blanco,8,3.3,3,Spain,13,2020,https://groceries.morrisons.com/products/morrisons-the-best-marques-de-los-rios-rioja-blanco-383075011,8,0.903089987,ESP,8,2,0
+rose,75,Morrisons The Best Provence Rose,9.5,4,1,France,13,2018,https://groceries.morrisons.com/products/morrisons-the-best-provence-rose-480687011,9.5,0.977723605,FRA,9.5,4,0
+rose,75,Morrisons The Best Chenin Blanc,8,4.7,9,Western Cape,12.5,2021,https://groceries.morrisons.com/products/morrisons-the-best-chenin-blanc-119967011,8,0.903089987,unknown,8,1,4.7
+rose,75,Morrisons The Best Pinot Grigio Rose,7.75,3.7,6,Italy,12.5,2015,https://groceries.morrisons.com/products/morrisons-the-best-pinot-grigio-rose-217624011,7.75,0.889301703,ITA,7.75,7,3.7
+rose,75,Vitis Nostra Pinot Noir Rose,6.25,4.5,11,Italy,11.5,2015,https://groceries.morrisons.com/products/vitis-nostra-pinot-noir-rose-287167011,6.25,0.795880017,ITA,6.25,7,4.5
+rose,75,Mateus Rose,5.49,4.6,7,Portugal,11,NV,https://groceries.morrisons.com/products/mateus-rose-217997011,5.49,0.739572344,PRT,5.49,,4.6
+rose,75,Gallo Family Vineyards White Grenache Rose Wine,5.5,5,4,U,10.5,2019,https://groceries.morrisons.com/products/gallo-family-vineyards-white-grenache-rose-wine-212709011,5.5,0.740362689,unknown,5.5,3,0
+rose,75,Barefoot White Zinfandel Rose Wine,6,4.4,7,United States,8.5,NV,https://groceries.morrisons.com/products/barefoot-white-zinfandel-rose-wine-119819011,6,0.77815125,USA,6,,4.4
+rose,75,Gallo Family Vineyards White Zinfandel Rose Wine,5.5,0,0,United States,8.5,2019,https://groceries.morrisons.com/products/gallo-family-vineyards-white-zinfandel-rose-wine-212324011,5.5,0.740362689,USA,5.5,3,0
+rose,75,Echo Falls White Zinfandel,6.5,4.2,6,United States,10.5,2019,https://groceries.morrisons.com/products/echo-falls-white-zinfandel-243716011,6.5,0.812913357,USA,6.5,3,4.2
+rose,75,Blossom Hill White Zinfandel,5.5,5,3,United States,11,2019,https://groceries.morrisons.com/products/blossom-hill-white-zinfandel-119817011,5.5,0.740362689,USA,5.5,3,0
+rose,75,Barefoot Pink Moscato Rose Wine,6,5,9,United States,9,NV,https://groceries.morrisons.com/products/barefoot-pink-moscato-rose-wine-243688011,6,0.77815125,USA,6,,5
+rose,75,La Vieille Ferme Rose,6,0,0,France,13,2020,https://groceries.morrisons.com/products/la-vieille-ferme-rose-588025011,6,0.77815125,FRA,6,2,0
+rose,75,Morrisons The Best Touraine Rose,8,3,4,France,12.5,,https://groceries.morrisons.com/products/morrisons-the-best-touraine-rose-523765011,8,0.903089987,FRA,8,,0
+rose,75,Hardys Bankside Rose,6.5,5,1,Australia,11.5,2017,https://groceries.morrisons.com/products/hardys-bankside-rose-119824011,6.5,0.812913357,AUS,6.5,5,0
+rose,75,I Heart Prosecco Rose,9.25,0,0,Italy,11,2020,https://groceries.morrisons.com/products/i-heart-prosecco-rose-585803011,9.25,0.966141733,ITA,9.25,2,0
+rose,75,Black Tower Rosé,6,5,3,Produce of the EU,9.5,NV,https://groceries.morrisons.com/products/black-tower-ros-119807011,6,0.77815125,unknown,6,,0
+rose,75,L'Escarpe Coteaux D'Aix En Provence Rose,8.75,3.8,6,France,13,2017,https://groceries.morrisons.com/products/l-escarpe-coteaux-d-aix-en-provence-rose-421282011,8.75,0.942008053,FRA,8.75,5,3.8
+rose,75,Yellow Tail Jammy Rose Roo,6,0,0,Australia,11,2022,https://groceries.morrisons.com/products/yellow-tail-jammy-rose-roo-583442011,6,0.77815125,AUS,6,0,0
+rose,75,Blossom Hill Grenache Rosé,5.5,5,4,United States,11,2019,https://groceries.morrisons.com/products/blossom-hill-grenache-ros-119818011,5.5,0.740362689,USA,5.5,3,0
+rose,75,I Heart Rose,6,4,1,Spain,12,NV,https://groceries.morrisons.com/products/i-heart-rose-523785011,6,0.77815125,ESP,6,,0
+rose,75,Blossom Hill Rose Wine,6,0,0,Spain,11,NV,https://groceries.morrisons.com/products/blossom-hill-rose-wine-523763011,6,0.77815125,ESP,6,,0
+rose,75,Kylie Minogue Rose,9,5,3,France,12.5,2019,https://groceries.morrisons.com/products/kylie-minogue-rose-546518011,9,0.954242509,FRA,9,3,0
+rose,75,Gallo Family Vineyards Spritz Raspberry & Lime,4,4.4,5,United States,5.5,,https://groceries.morrisons.com/products/gallo-family-vineyards-spritz-raspberry-lime-282638011,4,0.602059991,USA,4,,0
+rose,75,Gary Barlow Organic Rose,6,3.5,2,Spain,12,2021,https://groceries.morrisons.com/products/gary-barlow-organic-rose-583427011,6,0.77815125,ESP,6,1,0
+rose,75,Barefoot Pink Pinot Grigio Rose Wine,6,3,4,United States,12,NV,https://groceries.morrisons.com/products/barefoot-pink-pinot-grigio-rose-wine-379846011,6,0.77815125,USA,6,,0
+rose,18.7,Fleurs De Prairie Luberon Rose,2.49,0,0,France,13,2020,https://groceries.morrisons.com/products/fleurs-de-prairie-luberon-rose-553420011,9.986631016,0.999419004,FRA,2.49,2,0
+rose,75,Crocodile Diamante Rose,8,0,0,France,12.5,2021,https://groceries.morrisons.com/products/crocodile-diamante-rose-588020011,8,0.903089987,FRA,8,1,0
+rose,20,J. P. Chenet Ice Edition Rose,2.5,5,6,France,11,NV,https://groceries.morrisons.com/products/j-p-chenet-ice-edition-rose-401923011,9.375,0.971971276,FRA,2.5,,5
+rose,75,Mirabeau X Rose,14,0,0,France,12.5,2021,https://groceries.morrisons.com/products/mirabeau-x-rose-589699011,14,1.146128036,FRA,14,1,0
+rose,75,Studio By Miraval Rose,12,0,0,France,13,2021,https://groceries.morrisons.com/products/studio-by-miraval-rose-588026011,12,1.079181246,FRA,12,1,0
+rose,75,Odette Mediterrannee Rose,10,0,0,France,13,2021,https://groceries.morrisons.com/products/odette-mediterrannee-rose-588024011,10,1,FRA,10,1,0
+rose,75,Cuvee Mistral De Provenc,12,0,0,France,13,2020,https://groceries.morrisons.com/products/cuvee-mistral-de-provenc-588023011,12,1.079181246,FRA,12,2,0
+rose,75,The Pale Rose,14,0,0,France,12.5,2021,https://groceries.morrisons.com/products/the-pale-rose-588022011,14,1.146128036,FRA,14,1,0
+rose,75,Mucho Mas Rose,7.5,0,0,Spain,13,NV,https://groceries.morrisons.com/products/mucho-mas-rose-588019011,7.5,0.875061263,ESP,7.5,,0
+rose,75,Morrisons White Zinfandel,4.89,4.6,8,United States,10.5,,https://groceries.morrisons.com/products/morrisons-white-zinfandel-421255011,4.89,0.689308859,USA,4.89,,4.6
+rose,75,The Shy Pig Blush,4.79,2.6,10,Australia,10.5,NV,https://groceries.morrisons.com/products/the-shy-pig-blush-310334011,4.79,0.680335513,AUS,4.79,,2.6
+rose,75,Silver Bay Point Rose,3.89,3.5,15,British,8,Non Vintage,https://groceries.morrisons.com/products/silver-bay-point-rose-119828011,3.89,0.589949601,unknown,3.89,,3.5
+rose,75,Gallo Family Vineyards Summer Rose Wine,4.79,3.8,6,United States,5.5,NV,https://groceries.morrisons.com/products/gallo-family-vineyards-summer-rose-wine-229564011,4.79,0.680335513,USA,4.79,,3.8
+rose,75,Kingsland Portuguese Rose,4.69,5,1,Portugal,10,NV,https://groceries.morrisons.com/products/kingsland-portuguese-rose-488295011,4.69,0.671172843,PRT,4.69,,0
+rose,75,Myton Hill Rose,4.19,0,0,Spain,10.5,NV,https://groceries.morrisons.com/products/myton-hill-rose-541749011,4.19,0.622214023,ESP,4.19,,0
+rose,75,Yellow Tail Rose,7,5,1,Australia,12,NV,https://groceries.morrisons.com/products/yellow-tail-rose-477311011,7,0.84509804,AUS,7,,0
+rose,75,19 Crimes Revolutionary Rose,9,3.2,5,Spain,13.5,,https://groceries.morrisons.com/products/19-crimes-revolutionary-rose-566181011,9,0.954242509,ESP,9,,0
+rose,75,Jam Shed Rose California,8,5,4,United States,11,2020,https://groceries.morrisons.com/products/jam-shed-rose-california-551481011,8,0.903089987,USA,8,2,0
+rose,75,Rose Calvet Cap D' Adge Igp Cotes De Thau,9,5,2,France,12,2018,https://groceries.morrisons.com/products/rose-calvet-cap-d-adge-igp-cotes-de-thau-480686011,9,0.954242509,FRA,9,4,0
+rose,75,Squealin Pig Pinot Grigio Rose,10,0,0,Italy,12,2021,https://groceries.morrisons.com/products/squealin-pig-pinot-grigio-rose-583981011,10,1,ITA,10,1,0
+rose,75,Trivento Rose,8,0,0,Argentina,11.5,2021,https://groceries.morrisons.com/products/trivento-rose-583433011,8,0.903089987,ARG,8,1,0
+rose,75,Mud House Chile Rose,9,0,0,Chile,12.5,2021,https://groceries.morrisons.com/products/mud-house-chile-rose-583436011,9,0.954242509,CHL,9,1,0
+rose,75,Freixenet Italian Rose,9,3.7,3,Italy,11.5,2019,https://groceries.morrisons.com/products/freixenet-italian-rose-523752011,9,0.954242509,ITA,9,3,0
+rose,75,Piccini Costa Toscana Organic Rose,9,0,0,Italy,12.5,2021,https://groceries.morrisons.com/products/piccini-costa-toscana-organic-rose-583430011,9,0.954242509,ITA,9,1,0
+rose,75,Blossom Hill Gin Fizz Blood Orange,9,0,0,United Kingdom,8.5,,https://groceries.morrisons.com/products/blossom-hill-gin-fizz-blood-orange-551486011,9,0.954242509,GBR,9,,0
+rose,75,Fairbank Sauvignon Blanc Rose,7,4,3,South Africa,12.5,2020,https://groceries.morrisons.com/products/fairbank-sauvignon-blanc-rose-523770011,7,0.84509804,ZAF,7,2,0
+sparkling,75,Morrisons The Best Marlborough Sauvignon Blanc,9,3.7,3,New Zealand,12.5,2019,https://groceries.morrisons.com/products/morrisons-the-best-marlborough-sauvignon-blanc-283660011,9,0.954242509,NZL,9,3,0
+sparkling,70,Aperol,16,4,4,Italy,11,,https://groceries.morrisons.com/products/aperol-265270011,17.14285714,1.234083206,ITA,16,,0
+sparkling,75,Morrisons The Best South African Sauvignon Blanc,7.5,4,9,Western Cape,12.5,2021,https://groceries.morrisons.com/products/morrisons-the-best-south-african-sauvignon-blanc-119962011,7.5,0.875061263,unknown,7.5,1,4
+sparkling,75,La Gioiosa Prosecco Brut,10,4.7,7,Italy,11,NV,https://groceries.morrisons.com/products/la-gioiosa-prosecco-brut-217926011,10,1,ITA,10,,4.7
+sparkling,75,Morrisons The Best Prosecco DOC,8.75,4.2,18,Italy,11,,https://groceries.morrisons.com/products/morrisons-the-best-prosecco-doc-120002011,8.75,0.942008053,ITA,8.75,,4.2
+sparkling,75,La Gioiosa Rosado Prosecco,10,4.6,9,Italy,11,NV,https://groceries.morrisons.com/products/la-gioiosa-rosado-prosecco-243844011,10,1,ITA,10,,4.6
+sparkling,75,Sorso Prosecco Spumante,6.49,3.4,16,Italy,11,NV,https://groceries.morrisons.com/products/sorso-prosecco-spumante-480679011,6.49,0.812244697,ITA,6.49,,3.4
+sparkling,75,Morrisons The Best Prosecco Valdobbiadene DOCG,10,4.9,9,Italy,11,,https://groceries.morrisons.com/products/morrisons-the-best-prosecco-valdobbiadene-docg-480626011,10,1,ITA,10,,4.9
+sparkling,75,Menestrello Prosecco Spumante,8,3.8,13,Italy,11,NV,https://groceries.morrisons.com/products/menestrello-prosecco-spumante-258584011,8,0.903089987,ITA,8,,3.8
+sparkling,75,I Heart Prosecco,8.75,3.7,6,Italy,11,NV,https://groceries.morrisons.com/products/i-heart-prosecco-401822011,8.75,0.942008053,ITA,8.75,,3.7
+sparkling,75,Freixenet Prosecco D. O. C.,9,4,6,Italy,11,NV,https://groceries.morrisons.com/products/freixenet-prosecco-d-o-c-427914011,9,0.954242509,ITA,9,,4
+sparkling,75,Morrisons The Best Marques de los Rios Cava Brut,9.25,4.2,10,Spain,12,,https://groceries.morrisons.com/products/morrisons-the-best-marques-de-los-rios-cava-brut-217631011,9.25,0.966141733,ESP,9.25,,4.2
+sparkling,20,Freixenet Prosecco,4.25,0,0,Italy,11,NV,https://groceries.morrisons.com/products/freixenet-prosecco-480646011,15.9375,1.202420198,ITA,4.25,,0
+sparkling,75,Codorniu Vintage Cava Brut,11,5,2,Spain,11.5,2019,https://groceries.morrisons.com/products/codorniu-vintage-cava-brut-553421011,11,1.041392685,ESP,11,3,0
+sparkling,75,Morrisons The Best Cremant De Limoux Sparkling Wine,12.5,3.3,4,France,12.5,,https://groceries.morrisons.com/products/morrisons-the-best-cremant-de-limoux-sparkling-wine-533895011,12.5,1.096910013,FRA,12.5,,0
+sparkling,75,Morrisons The Best Prosecco Rose DOC,8.75,3.7,3,Italy,11,,https://groceries.morrisons.com/products/morrisons-the-best-prosecco-rose-doc-533897011,8.75,0.942008053,ITA,8.75,,0
+sparkling,75,Morrisons The Best Etienne Leclair Brut Champagne,23,3.8,4,France,12,,https://groceries.morrisons.com/products/morrisons-the-best-etienne-leclair-brut-champagne-217633011,23,1.361727836,FRA,23,,0
+sparkling,75,Morrisons The Best English Sparkling Brut Vintage 2010,27,4.5,8,England,11.5,,https://groceries.morrisons.com/products/morrisons-the-best-english-sparkling-brut-vintage-2010-480635011,27,1.431363764,unknown,27,,4.5
+sparkling,20,Freixenet Italian Rose Sparkling Wine,4.25,3,2,Italy,11,NV,https://groceries.morrisons.com/products/freixenet-italian-rose-sparkling-wine-480644011,15.9375,1.202420198,ITA,4.25,,0
+sparkling,75,Morrisons The Best Brut Premier Cru Champagne,27,3,2,France,12,,https://groceries.morrisons.com/products/morrisons-the-best-brut-premier-cru-champagne-437973011,27,1.431363764,FRA,27,,0
+sparkling,75,Mionetto Prosecco Doc Treviso Brut,10,4,2,Italy,11,NV,https://groceries.morrisons.com/products/mionetto-prosecco-doc-treviso-brut-480636011,10,1,ITA,10,,0
+sparkling,75,Morrisons The Best Etienne Leclair Brut Rose Champagne,24,3,3,France,12,,https://groceries.morrisons.com/products/morrisons-the-best-etienne-leclair-brut-rose-champagne-217655011,24,1.380211242,FRA,24,,0
+sparkling,75,Corvezzo Organic Prosecco,8,4.8,12,Italy,11.5,2017,https://groceries.morrisons.com/products/corvezzo-organic-prosecco-421301011,8,0.903089987,ITA,8,5,4.8
+sparkling,12.5,Lambrini Lightly Sparkling Perry,2.75,0,0,unknown,6,,https://groceries.morrisons.com/products/lambrini-lightly-sparkling-perry-537620011,16.5,1.217483944,unknown,2.75,,0
+sparkling,75,Jules Mignon Brutreserve Champagne,16,4.3,6,France,12,NV,https://groceries.morrisons.com/products/jules-mignon-brutreserve-champagne-321403011,16,1.204119983,FRA,16,,4.3
+sparkling,75,Charles De Villers Champagne Brut,24,5,4,France,12.5,,https://groceries.morrisons.com/products/charles-de-villers-champagne-brut-541755011,24,1.380211242,FRA,24,,0
+sparkling,75,Veuve Devanlay Champagne Brut,26,4.3,6,France,12,NV,https://groceries.morrisons.com/products/veuve-devanlay-champagne-brut-212387011,26,1.414973348,FRA,26,,4.3
+sparkling,75,19 Crimes Sparkling White,10,0,0,Australia,12,NV,https://groceries.morrisons.com/products/19-crimes-sparkling-white-592236011,10,1,AUS,10,,0
+sparkling,75,Pale Fox Single Estate Prosecco Gift Box,25,0,0,Italy,11,2021,https://groceries.morrisons.com/products/pale-fox-single-estate-prosecco-gift-box-592237011,25,1.397940009,ITA,25,1,0
+sparkling,75,Ferrari Brut Nv,23,0,0,Italy,12.5,NV,https://groceries.morrisons.com/products/ferrari-brut-nv-592241011,23,1.361727836,ITA,23,,0
+sparkling,75,Morrisons Winter Spiced Fizz,3.49,5,1,unknown,4,,https://groceries.morrisons.com/products/morrisons-winter-spiced-fizz-569781011,3.49,0.542825427,unknown,3.49,,0
+sparkling,75,Castillo De Sierra Brut,5.85,2.3,3,Spain,11.5,NV,https://groceries.morrisons.com/products/castillo-de-sierra-brut-523748011,5.85,0.767155866,ESP,5.85,,0
+sparkling,75,Castillo De Sierra Semi Seco Cava,5.85,4.7,7,Spain,11.5,NV,https://groceries.morrisons.com/products/castillo-de-sierra-semi-seco-cava-523750011,5.85,0.767155866,ESP,5.85,,4.7
+sparkling,75,Castillo De Sierra Rosado,5.99,5,5,Spain,11.5,NV,https://groceries.morrisons.com/products/castillo-de-sierra-rosado-523749011,5.99,0.777426822,ESP,5.99,,0
+sparkling,75,Kylie Minogue Prosecco Rose,9,3.8,4,Italy,11,NV,https://groceries.morrisons.com/products/kylie-minogue-prosecco-rose-551496011,9,0.954242509,ITA,9,,0
+sparkling,75,Martini Asti Sparkling Wine,8.5,5,7,Italy,7.5,NV,https://groceries.morrisons.com/products/martini-asti-sparkling-wine-209721011,8.5,0.929418926,ITA,8.5,,5
+sparkling,75,La Gioiosa Prosecco Brut,10,4.7,7,Italy,11,NV,https://groceries.morrisons.com/products/la-gioiosa-prosecco-brut-217926011,10,1,ITA,10,,4.7
+sparkling,75,Canti Prosecco Spumante Brut,9.5,4,9,Italy,11,2019,https://groceries.morrisons.com/products/canti-prosecco-spumante-brut-228466011,9.5,0.977723605,ITA,9.5,3,4
+sparkling,75,Freixenet Vintage Brut Cava,7,3.8,5,Spain,11.5,2014,https://groceries.morrisons.com/products/freixenet-vintage-brut-cava-212343011,7,0.84509804,ESP,7,8,0
+sparkling,75,Freixenet Cordon Negro Brut Cava,11,4.1,9,Spain,11.5,NV,https://groceries.morrisons.com/products/freixenet-cordon-negro-brut-cava-119994011,11,1.041392685,ESP,11,,4.1
+sparkling,75,Mcguigan Black Label Shiraz,7.5,4.3,4,Australia,13.5,NV,https://groceries.morrisons.com/products/mcguigan-black-label-shiraz-551915011,7.5,0.875061263,AUS,7.5,,0
+sparkling,75,Radacini Blanc De Noirs,7,5,3,Moldova (Republic Of),12,NV,https://groceries.morrisons.com/products/radacini-blanc-de-noirs-583447011,7,0.84509804,unknown,7,,0
+sparkling,75,Freixenet Italian Sparkling Rose,12,4.3,3,Italy,10.8,NV,https://groceries.morrisons.com/products/freixenet-italian-sparkling-rose-258583011,12,1.079181246,ITA,12,,0
+sparkling,75,Maschio  Prosecco,10,4,7,Italy,11,2015,https://groceries.morrisons.com/products/maschio-prosecco-321391011,10,1,ITA,10,7,4
+sparkling,75,Moet Rose Champagne NV Gift Box,47,5,3,France,12,NV,https://groceries.morrisons.com/products/moet-rose-champagne-nv-gift-box-217656011,47,1.672097858,FRA,47,,0
+sparkling,75,Champagne Veuve Devanlay Nv Rose,22,4.3,6,France,12,NV,https://groceries.morrisons.com/products/champagne-veuve-devanlay-nv-rose-261706011,22,1.342422681,FRA,22,,4.3
+sparkling,150,Freixenet Prosecco,20,5,1,Italy,11,NV,https://groceries.morrisons.com/products/freixenet-prosecco-570684011,10,1,ITA,20,,0
+sparkling,75,Lanson Black Label Brut NV,37,5,1,France,12.5,NV,https://groceries.morrisons.com/products/lanson-black-label-brut-nv-120009011,37,1.568201724,FRA,37,,0
+sparkling,75,Freixenet  Cordon Rosado    Seco,11,3.7,3,Spain,12,NV,https://groceries.morrisons.com/products/freixenet-cordon-rosado-seco-260346011,11,1.041392685,ESP,11,,0
+sparkling,75,Heidsieck & Co Monopole Blue Top Brut Champagne,29,5,2,France,12,NV,https://groceries.morrisons.com/products/heidsieck-co-monopole-blue-top-brut-champagne-512054011,29,1.462397998,FRA,29,,0
+sparkling,75,Maschio Prosecco Doc Rose Spumante Extra Dry,11,4.3,3,Italy,11,2019,https://groceries.morrisons.com/products/maschio-prosecco-doc-rose-spumante-extra-dry-533892011,11,1.041392685,ITA,11,3,0
+sparkling,75,Taittinger Brut Reserve NV,40,4.7,3,France,12.5,NV,https://groceries.morrisons.com/products/taittinger-brut-reserve-nv-120010011,40,1.602059991,FRA,40,,0
+sparkling,75,Denbies Wine Estate Chalk Valley Sparkling Wine,16,4.3,6,England,12,,https://groceries.morrisons.com/products/denbies-wine-estate-chalk-valley-sparkling-wine-421300011,16,1.204119983,unknown,16,,4.3
+sparkling,75,Morrisons Mimosa,2.99,0,0,unknown,4,,https://groceries.morrisons.com/products/morrisons-mimosa-586524011,2.99,0.475671188,unknown,2.99,,0
+sparkling,75,"Mumm Cordon Rouge Champagne Brut, Non-Vintage",36,5,2,France,12,Non Vintage,https://groceries.morrisons.com/products/mumm-cordon-rouge-champagne-brut-non-vintage-261708011,36,1.556302501,FRA,36,,0
+sparkling,150,Freixenet Italian Rose Sparkling Wine,20,1,1,Italy,11,NV,https://groceries.morrisons.com/products/freixenet-italian-rose-sparkling-wine-523751011,10,1,ITA,20,,0
+sparkling,75,Veuve Clicquot Champagne Vintage,56,2,1,France,12,2012,https://groceries.morrisons.com/products/veuve-clicquot-champagne-vintage-342872011,56,1.748188027,FRA,56,10,0
+sparkling,75,Bollinger Special Cuvee Brut NV,52,4,3,unknown,12,NV,https://groceries.morrisons.com/products/bollinger-special-cuvee-brut-nv-120011011,52,1.716003344,unknown,52,,0
+sparkling,75,Lanson Rose Label Champagne Rose NV,41,0,0,France,12.5,NV,https://groceries.morrisons.com/products/lanson-rose-label-champagne-rose-nv-243847011,41,1.612783857,FRA,41,,0
+sparkling,75,Moet Vintage Champagne Gift Box,54,5,1,France,12.5,2012,https://groceries.morrisons.com/products/moet-vintage-champagne-gift-box-243835011,54,1.73239376,FRA,54,10,0
+sparkling,75,Heidsieck Monopole Rose Champagne,35,5,1,France,12,NV,https://groceries.morrisons.com/products/heidsieck-monopole-rose-champagne-583435011,35,1.544068044,FRA,35,,0
+sparkling,75,Moet & Chandon Imperial Brut Champagne,41,4.3,3,France,12,NV,https://groceries.morrisons.com/products/moet-chandon-imperial-brut-champagne-209724011,41,1.612783857,FRA,41,,0
+sparkling,75,Morrisons The Best Clementine Bucks Fizz,3.99,5,2,France,4,,https://groceries.morrisons.com/products/morrisons-the-best-clementine-bucks-fizz-500603011,3.99,0.600972896,FRA,3.99,,0
+sparkling,75,Morrisons The Best Kir Royale,4,1,1,France,5.5,,https://groceries.morrisons.com/products/morrisons-the-best-kir-royale-500602011,4,0.602059991,FRA,4,,0
+red,75,McGuigan Black Label Pinot Grigio,6.75,4.1,7,Australia,11.5,2021,https://groceries.morrisons.com/products/mcguigan-black-label-pinot-grigio-211276011,6.75,0.829303773,AUS,6.75,1,4.1
+red,75,McGuigan Black Label Chardonnay,6.75,2.8,4,Australia,12.5,2021,https://groceries.morrisons.com/products/mcguigan-black-label-chardonnay-119906011,6.75,0.829303773,AUS,6.75,1,0
+red,75,Wolf Blass Vineyards Chardonnay,6.5,3.7,3,Australia,13,2012,https://groceries.morrisons.com/products/wolf-blass-vineyards-chardonnay-119918011,6.5,0.812913357,AUS,6.5,10,0
+red,75,Yellow Tail Malbec,7,4.6,7,Australia,13.5,2019,https://groceries.morrisons.com/products/yellow-tail-malbec-273276011,7,0.84509804,AUS,7,3,4.6
+red,75,Apothic Red Wine,9.5,4.7,208,United States,13.5,2019,https://groceries.morrisons.com/products/apothic-red-wine-287190011,9.5,0.977723605,USA,9.5,3,4.7
+red,75,Apothic Cabernet Sauvignon Red Wine,10,0,0,United States,13.5,2019,https://groceries.morrisons.com/products/apothic-cabernet-sauvignon-red-wine-551491011,10,1,USA,10,3,0
+red,75,McGuigan Black Label Merlot,6.75,4.2,13,Australia,12.5,2021,https://groceries.morrisons.com/products/mcguigan-black-label-merlot-243824011,6.75,0.829303773,AUS,6.75,1,4.2
+red,75,McGuigan Black Label Shiraz,6.75,3.6,13,Australia,12.5,2021,https://groceries.morrisons.com/products/mcguigan-black-label-shiraz-243825011,6.75,0.829303773,AUS,6.75,1,3.6
+red,75,Rosemount Diamond Selection Shiraz,5.49,3.6,11,Australia,12.5,2021,https://groceries.morrisons.com/products/rosemount-diamond-selection-shiraz-119744011,5.49,0.739572344,AUS,5.49,1,3.6
+red,75,McGuigan Black Label Red,6.75,4.4,9,Australia,13,2020,https://groceries.morrisons.com/products/mcguigan-black-label-red-480668011,6.75,0.829303773,AUS,6.75,2,4.4
+red,75,Wolf Blass Vineyards Release Shiraz,6.5,5,2,Australia,13.5,2013,https://groceries.morrisons.com/products/wolf-blass-vineyards-release-shiraz-523771011,6.5,0.812913357,AUS,6.5,9,0
+red,75,Alzar            Malbec,6.25,3,17,Argentina,12.5,2021,https://groceries.morrisons.com/products/alzar-malbec-261840011,6.25,0.795880017,ARG,6.25,1,3
+red,75,Wolf Blass Red Label Shiraz Cabernet,5.49,3.9,8,Australia,14,2013,https://groceries.morrisons.com/products/wolf-blass-red-label-shiraz-cabernet-119750011,5.49,0.739572344,AUS,5.49,9,3.9
+red,75,19 Crimes Red,7,4.6,23,Australia,13.5,2020,https://groceries.morrisons.com/products/19-crimes-red-372261011,7,0.84509804,AUS,7,2,4.6
+red,75,Beefsteak Club Mendoza Malbec,6,4.5,2,Argentina,13.5,2020,https://groceries.morrisons.com/products/beefsteak-club-mendoza-malbec-480666011,6,0.77815125,ARG,6,2,0
+red,75,Barefoot Merlot Red Wine,6,4.6,11,United States,13.5,NV,https://groceries.morrisons.com/products/barefoot-merlot-red-wine-119757011,6,0.77815125,USA,6,,4.6
+red,75,Most Wanted Shiraz,5.49,5,1,Australia,13.5,2021,https://groceries.morrisons.com/products/most-wanted-shiraz-583429011,5.49,0.739572344,AUS,5.49,1,0
+red,75,Turner Road Reserve Merlot,6.5,3.6,9,USA,13,,https://groceries.morrisons.com/products/turner-road-reserve-merlot-212315011,6.5,0.812913357,unknown,6.5,,3.6
+red,75,Casillero Del Diablo Reserva Cabernet Sauvignon,6.5,4.4,5,Valle Central,13.5,2020,https://groceries.morrisons.com/products/casillero-del-diablo-reserva-cabernet-sauvignon-211700011,6.5,0.812913357,unknown,6.5,2,0
+red,75,Yellow Tail Jammy Red Roo,6,3.9,13,Australia,12,NV,https://groceries.morrisons.com/products/yellow-tail-jammy-red-roo-527191011,6,0.77815125,AUS,6,,3.9
+red,75,Hardys Nottage Hill Cabernet Shiraz,6.75,4,7,Australia,14,2016,https://groceries.morrisons.com/products/hardys-nottage-hill-cabernet-shiraz-119742011,6.75,0.829303773,AUS,6.75,6,4
+red,75,Yellow Tail Merlot,6,5,2,Australia,13.5,2019,https://groceries.morrisons.com/products/yellow-tail-merlot-523772011,6,0.77815125,AUS,6,3,0
+red,75,Gallo Family Vineyards Merlot Red Wine,5.75,5,4,United States,13,2019,https://groceries.morrisons.com/products/gallo-family-vineyards-merlot-red-wine-375032011,5.75,0.759667845,USA,5.75,3,0
+red,75,Alzar Sauvignon Blanc,6.25,4.3,3,Chile,12.5,2021,https://groceries.morrisons.com/products/alzar-sauvignon-blanc-525689011,6.25,0.795880017,CHL,6.25,1,0
+red,75,Campo Viejo Rioja Reserva Red Wine,11,4.7,6,Spain,13.5,2016,https://groceries.morrisons.com/products/campo-viejo-rioja-reserva-red-wine-243703011,11,1.041392685,ESP,11,6,4.7
+red,75,19 Crimes The Uprising Red Wine,10,4.6,7,Australia,14,2020,https://groceries.morrisons.com/products/19-crimes-the-uprising-red-wine-478371011,10,1,AUS,10,2,4.6
+red,75,Hardys Bankside Shiraz,6.5,4,6,Australia,13,2017,https://groceries.morrisons.com/products/hardys-bankside-shiraz-212305011,6.5,0.812913357,AUS,6.5,5,4
+red,75,Hardys Nottage Hill Merlot,6.75,0,0,Australia,14,2017,https://groceries.morrisons.com/products/hardys-nottage-hill-merlot-551493011,6.75,0.829303773,AUS,6.75,5,0
+red,75,Morrisons The Best Primitivo,8.25,4.6,8,Italy,13.5,2018,https://groceries.morrisons.com/products/morrisons-the-best-primitivo-392537011,8.25,0.916453949,ITA,8.25,4,4.6
+red,18.7,Yellow Tail Shiraz,2.49,0,0,Australia,13.5,2018,https://groceries.morrisons.com/products/yellow-tail-shiraz-551904011,9.986631016,0.999419004,AUS,2.49,4,0
+red,75,Asado Club Malbec,6,3.6,14,Argentina,13,NV,https://groceries.morrisons.com/products/asado-club-malbec-342863011,6,0.77815125,ARG,6,,3.6
+red,75,Piccini Memoro Red,6,4.2,16,Italy,14,NV,https://groceries.morrisons.com/products/piccini-memoro-red-248217011,6,0.77815125,ITA,6,,4.2
+red,75,Morrisons The Best Cabernet Sauvignon,7.5,0,0,South Africa,13.5,2021,https://groceries.morrisons.com/products/morrisons-the-best-cabernet-sauvignon-398783011,7.5,0.875061263,ZAF,7.5,1,0
+red,75,Morrisons The Best Gran Montana Malbec,8.75,4.4,12,Argentina,13,2014,https://groceries.morrisons.com/products/morrisons-the-best-gran-montana-malbec-293192011,8.75,0.942008053,ARG,8.75,8,4.4
+red,75,Morrisons The Best Cotes du Rhone Villages,8.5,4.3,4,France,14,2014,https://groceries.morrisons.com/products/morrisons-the-best-cotes-du-rhone-villages-119662011,8.5,0.929418926,FRA,8.5,8,0
+red,75,Morrisons The Best Marques de los Rios Rioja Reserva,9.25,3.7,12,Spain,13.5,2017,https://groceries.morrisons.com/products/morrisons-the-best-marques-de-los-rios-rioja-reserva-273275011,9.25,0.966141733,ESP,9.25,5,3.7
+red,75,Morrisons The Best Negroamaro,7.75,4.4,13,Italy,13.5,2019,https://groceries.morrisons.com/products/morrisons-the-best-negroamaro-421295011,7.75,0.889301703,ITA,7.75,3,4.4
+red,75,Campo Viejo Rioja Garnacha Red Wine,7,4.5,2,Spain,14,2020,https://groceries.morrisons.com/products/campo-viejo-rioja-garnacha-red-wine-310333011,7,0.84509804,ESP,7,2,0
+red,75,Morrisons The Best Cahors Malbec,8.25,4.5,4,France,13,2019,https://groceries.morrisons.com/products/morrisons-the-best-cahors-malbec-523786011,8.25,0.916453949,FRA,8.25,3,0
+red,75,Morrisons The Best Douro Red,8.25,4.5,6,Portugal,13.5,2012,https://groceries.morrisons.com/products/morrisons-the-best-douro-red-261688011,8.25,0.916453949,PRT,8.25,10,4.5
+red,75,Morrisons The Best Marques de los Rios Rioja Crianza,8.5,3.2,6,Spain,13.5,,https://groceries.morrisons.com/products/morrisons-the-best-marques-de-los-rios-rioja-crianza-480629011,8.5,0.929418926,ESP,8.5,,3.2
+red,75,Reino De La Vina Rioja,6.75,0,0,Spain,14,2021,https://groceries.morrisons.com/products/reino-de-la-vina-rioja-583439011,6.75,0.829303773,ESP,6.75,1,0
+red,75,Head Honcho Cabernet Sauvignon,6,3.4,7,Chile,13.5,2016,https://groceries.morrisons.com/products/head-honcho-cabernet-sauvignon-356050011,6,0.77815125,CHL,6,6,3.4
+red,75,The Wanted Zin Zinfandel,10,4.6,14,Italy,14.5,2019,https://groceries.morrisons.com/products/the-wanted-zin-zinfandel-270334011,10,1,ITA,10,3,4.6
+red,18.7,Morrisons The Best Marques De Los Rios Rioja Joven,2.5,0,0,unknown,14,2020,https://groceries.morrisons.com/products/morrisons-the-best-marques-de-los-rios-rioja-joven-551487011,10.02673797,1.001159666,unknown,2.5,2,0
+red,75,Morrisons The Best Uco Valley Malbec,10,3.5,4,Argentina,14,2017,https://groceries.morrisons.com/products/morrisons-the-best-uco-valley-malbec-410531011,10,1,ARG,10,5,0
+red,75,Morrisons The Best Valpolicella Ripasso,11,4.3,7,Italy,13.5,2015,https://groceries.morrisons.com/products/morrisons-the-best-valpolicella-ripasso-119709011,11,1.041392685,ITA,11,7,4.3
+red,75,Trivento Private Reserve Malbec,10,4.2,5,Argentina,14,2020,https://groceries.morrisons.com/products/trivento-private-reserve-malbec-477302011,10,1,ARG,10,2,0
+red,75,Alzar Merlot,6.25,4.7,3,Chile,13,2021,https://groceries.morrisons.com/products/alzar-merlot-525688011,6.25,0.795880017,CHL,6.25,1,0
+red,75,Blossom Hill Red Wine,6,3.5,2,Spain,12.5,,https://groceries.morrisons.com/products/blossom-hill-red-wine-570808011,6,0.77815125,ESP,6,,0
+red,75,Monts & Vaux Malbec,6.25,2.4,11,France,12.5,2018,https://groceries.morrisons.com/products/monts-vaux-malbec-287212011,6.25,0.795880017,FRA,6.25,4,2.4
+red,75,Barefoot Malbec Red Wine,6,4,6,United States,13,NV,https://groceries.morrisons.com/products/barefoot-malbec-red-wine-325037011,6,0.77815125,USA,6,,4
+red,75,Apothic Red Wine,9.5,4.7,208,United States,13.5,2019,https://groceries.morrisons.com/products/apothic-red-wine-287190011,9.5,0.977723605,USA,9.5,3,4.7
+red,75,Morrisons The Best Fleurie,10,4.6,8,France,13,,https://groceries.morrisons.com/products/morrisons-the-best-fleurie-273004011,10,1,FRA,10,,4.6
+red,75,Gary Barlow Organic Red Wine,6,3.4,7,Spain,13.5,2020,https://groceries.morrisons.com/products/gary-barlow-organic-red-wine-570469011,6,0.77815125,ESP,6,2,3.4
+red,75,I Heart Malbec,6,0,0,Argentina,13,2019,https://groceries.morrisons.com/products/i-heart-malbec-525694011,6,0.77815125,ARG,6,3,0
+red,75,Morrisons The Best Bordeaux Superior,7.5,3,1,France,13,2014,https://groceries.morrisons.com/products/morrisons-the-best-bordeaux-superior-321387011,7.5,0.875061263,FRA,7.5,8,0
+red,75,Diablo Dark Red,10,4.1,13,Chile,13.5,2021,https://groceries.morrisons.com/products/diablo-dark-red-477285011,10,1,CHL,10,1,4.1
+red,150,Jam Shed Shiraz Australia,12,5,2,Australia,13.5,2020,https://groceries.morrisons.com/products/jam-shed-shiraz-australia-551482011,6,0.77815125,AUS,12,2,0
+red,75,I Heart Merlot,6,0,0,Spain,12,NV,https://groceries.morrisons.com/products/i-heart-merlot-527192011,6,0.77815125,ESP,6,,0
+red,75,Morrisons The Best Pinotage,7.5,3.5,8,South Africa,14,2016,https://groceries.morrisons.com/products/morrisons-the-best-pinotage-119784011,7.5,0.875061263,ZAF,7.5,6,3.5
+red,75,Montelciego Rioja Reserva,7,2.5,16,Spain,13.5,2016,https://groceries.morrisons.com/products/montelciego-rioja-reserva-274531011,7,0.84509804,ESP,7,6,2.5
+red,75,Cono Sur Bicicleta Malbec,5.5,3,3,Chile,13,2020,https://groceries.morrisons.com/products/cono-sur-bicicleta-malbec-412995011,5.5,0.740362689,CHL,5.5,2,0
+red,75,Morrisons The Best Single Vineyard Pinot Noir,10,4,2,Chile,13,2019,https://groceries.morrisons.com/products/morrisons-the-best-single-vineyard-pinot-noir-378126011,10,1,CHL,10,3,0
+red,75,Head Honcho Merlot,6,3,4,Chile,13,2016,https://groceries.morrisons.com/products/head-honcho-merlot-356049011,6,0.77815125,CHL,6,6,0
+red,75,Morrisons The Best Barbera D'Asti,8.25,3.9,8,Italy,14.5,2014,https://groceries.morrisons.com/products/morrisons-the-best-barbera-d-asti-119717011,8.25,0.916453949,ITA,8.25,8,3.9
+red,75,Cono Sur Bicicleta Pinot Noir,5.75,3.3,6,Chile,13.5,2020,https://groceries.morrisons.com/products/cono-sur-bicicleta-pinot-noir-119771011,5.75,0.759667845,CHL,5.75,2,3.3
+red,75,Lindemans Gentlemans Collection Cabernet Sauvignon,8.5,4.2,6,Australia,14,2020,https://groceries.morrisons.com/products/lindemans-gentlemans-collection-cabernet-sauvignon-325762011,8.5,0.929418926,AUS,8.5,2,4.2
+red,75,Parrilla By Vinalba Malbec,9,5,3,Argentina,14,2020,https://groceries.morrisons.com/products/parrilla-by-vinalba-malbec-552694011,9,0.954242509,ARG,9,2,0
+red,75,Morrisons The Best Shiraz,7.5,1.3,4,South Africa,14,2019,https://groceries.morrisons.com/products/morrisons-the-best-shiraz-392538011,7.5,0.875061263,ZAF,7.5,3,0
+red,75,Morrisons The Best Chianti Classico,9.25,2.2,6,Italy,12.5,,https://groceries.morrisons.com/products/morrisons-the-best-chianti-classico-295610011,9.25,0.966141733,ITA,9.25,,2.2
+red,75,The Signal Post Shiraz,7.25,0,0,South Africa,13,2021,https://groceries.morrisons.com/products/the-signal-post-shiraz-578066011,7.25,0.860338007,ZAF,7.25,1,0
+red,18.7,Blossom Hill Classic Red,2,0,0,Spain,12.5,NV,https://groceries.morrisons.com/products/blossom-hill-classic-red-571443011,8.021390374,0.904249653,ESP,2,,0
+red,75,Morrisons The Best Chilean Carmenere,8.25,4,2,Chile,13.5,2021,https://groceries.morrisons.com/products/morrisons-the-best-chilean-carmenere-533214011,8.25,0.916453949,CHL,8.25,1,0
+red,75,Morrisons The Best Languedoc Red,8.25,2.8,5,France,13.5,,https://groceries.morrisons.com/products/morrisons-the-best-languedoc-red-321388011,8.25,0.916453949,FRA,8.25,,0
+red,75,Morrisons The Best Marques de los Rios Rioja Gran Reserva,12.5,4.3,3,Spain,14,,https://groceries.morrisons.com/products/morrisons-the-best-marques-de-los-rios-rioja-gran-reserva-398971011,12.5,1.096910013,ESP,12.5,,0
+red,75,Ogier Heritage Cotes Dr,10,4.3,3,France,14.5,2019,https://groceries.morrisons.com/products/ogier-heritage-cotes-dr-448310011,10,1,FRA,10,3,0
+red,75,Diablo Black Cabernet Sauvignon,10,5,1,Chile,13.5,2020,https://groceries.morrisons.com/products/diablo-black-cabernet-sauvignon-551497011,10,1,CHL,10,2,0
+red,75,Morrisons The Best Australia Cabernet Sauvignon,7.5,2.8,4,Australia,14,2013,https://groceries.morrisons.com/products/morrisons-the-best-australia-cabernet-sauvignon-330609011,7.5,0.875061263,AUS,7.5,9,0
+red,75,Penfolds Koonunga Hill Shiraz Cabernet,8.5,0,0,Australia,14.5,2019,https://groceries.morrisons.com/products/penfolds-koonunga-hill-shiraz-cabernet-553811011,8.5,0.929418926,AUS,8.5,3,0
+red,75,Morrisons The Best Chateauneuf Du Pape,19,3,2,France,14.5,,https://groceries.morrisons.com/products/morrisons-the-best-chateauneuf-du-pape-119663011,19,1.278753601,FRA,19,,0
+red,75,Morrisons The Best Amarone,17,4.4,7,Italy,14.5,2014,https://groceries.morrisons.com/products/morrisons-the-best-amarone-398781011,17,1.230448921,ITA,17,8,4.4
+red,75,Kumala Shiraz,6.25,3.7,3,South Africa,13.5,2017,https://groceries.morrisons.com/products/kumala-shiraz-525863011,6.25,0.795880017,ZAF,6.25,5,0
+red,75,Colpasso Nero D'Avola Appassimento,7.5,3,1,unknown,14,2020,https://groceries.morrisons.com/products/colpasso-nero-d-avola-appassimento-577571011,7.5,0.875061263,unknown,7.5,2,0
+red,75,Morrisons The Best Chilean Merlot,8.25,0,0,Chile,13.5,2021,https://groceries.morrisons.com/products/morrisons-the-best-chilean-merlot-533212011,8.25,0.916453949,CHL,8.25,1,0
+red,75,Morrisons The Best Ribera Del Duero,9,0,0,Spain,14.5,,https://groceries.morrisons.com/products/morrisons-the-best-ribera-del-duero-589704011,9,0.954242509,ESP,9,,0
+red,75,Villa Maria Private Bin Pinot Noir,11,3.3,4,New Zealand,13.5,2020,https://groceries.morrisons.com/products/villa-maria-private-bin-pinot-noir-264251011,11,1.041392685,NZL,11,2,0
+red,75,Morrisons The Best Saint Emilion,14,4,2,France,13,2015,https://groceries.morrisons.com/products/morrisons-the-best-saint-emilion-398970011,14,1.146128036,FRA,14,7,0
+red,75,Kumala Rose,6.25,0,0,South Africa,12,2017,https://groceries.morrisons.com/products/kumala-rose-571442011,6.25,0.795880017,ZAF,6.25,5,0
+red,75,Morrisons The Best Toscana,10,3.6,5,Italy,13,2019,https://groceries.morrisons.com/products/morrisons-the-best-toscana-243663011,10,1,ITA,10,3,0
+red,75,Morrisons The Best Dao Red,9,5,1,Portugal,13,,https://groceries.morrisons.com/products/morrisons-the-best-dao-red-589702011,9,0.954242509,PRT,9,,0
+red,75,Trivento Golden Reserve Malbec,13,3,1,Argentina,13.5,2019,https://groceries.morrisons.com/products/trivento-golden-reserve-malbec-551495011,13,1.113943352,ARG,13,3,0
+red,75,Morrisons The Best Alvarinho,7.5,0,0,Portugal,12,,https://groceries.morrisons.com/products/morrisons-the-best-alvarinho-589672011,7.5,0.875061263,PRT,7.5,,0
+red,75,Matsu El Picaro,10,0,0,Spain,14.5,2021,https://groceries.morrisons.com/products/matsu-el-picaro-583443011,10,1,ESP,10,1,0
+red,75,Morrisons The Best Bush Vine Cinsault,8.5,3,3,South Africa,14.5,2021,https://groceries.morrisons.com/products/morrisons-the-best-bush-vine-cinsault-500604011,8.5,0.929418926,ZAF,8.5,1,0
+red,75,Morrisons The Best Barolo,19,1.8,11,Italy,14,,https://groceries.morrisons.com/products/morrisons-the-best-barolo-119723011,19,1.278753601,ITA,19,,1.8
+red,75,Errazuriz Cabernet Sauvignon,7.5,3,1,Chile,13.5,2019,https://groceries.morrisons.com/products/errazuriz-cabernet-sauvignon-261836011,7.5,0.875061263,CHL,7.5,3,0
+red,75,Granite Earth Red,7,0,0,South Africa,14,2017,https://groceries.morrisons.com/products/granite-earth-red-448083011,7,0.84509804,ZAF,7,5,0
+red,75,Baron Philippe de Rothschild Mouton Cadet Rouge,10,3.3,7,Bordeaux,13.5,2019,https://groceries.morrisons.com/products/baron-philippe-de-rothschild-mouton-cadet-rouge-119652011,10,1,unknown,10,3,3.3
+red,75,Myton Hill Merlot,4.25,4.4,5,Moldova (Republic Of),13,,https://groceries.morrisons.com/products/myton-hill-merlot-421269011,4.25,0.62838893,unknown,4.25,,0
+red,75,Porta 6 Lisboa Tempranillo,7.5,0,0,Portugal,13.5,2021,https://groceries.morrisons.com/products/porta-6-lisboa-tempranillo-589703011,7.5,0.875061263,PRT,7.5,1,0
+red,75,Morrisons The Best Beaujolais Villages,9,3.5,2,France,13,,https://groceries.morrisons.com/products/morrisons-the-best-beaujolais-villages-273005011,9,0.954242509,FRA,9,,0
+red,75,Carte Rouge Vin de France,5.5,0,0,unknown,12,NV,https://groceries.morrisons.com/products/carte-rouge-vin-de-france-588182011,5.5,0.740362689,unknown,5.5,,0
+red,75,Mad Fish Shiraz,9,0,0,Western Australia,14.5,2018,https://groceries.morrisons.com/products/mad-fish-shiraz-588018011,9,0.954242509,unknown,9,4,0
+red,75,Squealing Pig Primitivo,9,5,1,Italy,13,2017,https://groceries.morrisons.com/products/squealing-pig-primitivo-478368011,9,0.954242509,ITA,9,5,0
+red,75,Translations Shiraz,4.99,0,0,Spain,13,NV,https://groceries.morrisons.com/products/translations-shiraz-594450011,4.99,0.698100546,ESP,4.99,,0
+red,75,Casillero Del Diablo Tempranillo,7.5,0,0,Spain,14,2020,https://groceries.morrisons.com/products/casillero-del-diablo-tempranillo-588183011,7.5,0.875061263,ESP,7.5,2,0
+red,75,Wolf Blass House Of The Dragon Cabernet Shiraz,15,0,0,Australia,14.5,2021,https://groceries.morrisons.com/products/wolf-blass-house-of-the-dragon-cabernet-shiraz-589701011,15,1.176091259,AUS,15,1,0
+red,75,Cali By Snoop Cali Red,12,0,0,United States,13.5,2021,https://groceries.morrisons.com/products/cali-by-snoop-cali-red-580059011,12,1.079181246,USA,12,1,0
+red,75,Pata Negra Toro Roble,8,3,1,Spain,14,2019,https://groceries.morrisons.com/products/pata-negra-toro-roble-588021011,8,0.903089987,ESP,8,3,0
+red,75,Mucho Mas Black Label Red,7.5,2,1,Spain,14,NV,https://groceries.morrisons.com/products/mucho-mas-black-label-red-588110011,7.5,0.875061263,ESP,7.5,,0
+red,75,Leopards Leap Lookout Red,7,0,0,South Africa,13.5,2020,https://groceries.morrisons.com/products/leopards-leap-lookout-red-588187011,7,0.84509804,ZAF,7,2,0
+red,75,Wise Wolf Cabernet Sauvignon,10,0,0,France,14,2021,https://groceries.morrisons.com/products/wise-wolf-cabernet-sauvignon-588111011,10,1,FRA,10,1,0
+red,75,B. INK Red Blend,9,3,1,Australia,14.5,2020,https://groceries.morrisons.com/products/b-ink-red-blend-588109011,9,0.954242509,AUS,9,2,0
+red,75,McGuigan Bin 578 Merlot,5.19,4.5,8,Australia,12.5,2018,https://groceries.morrisons.com/products/mcguigan-bin-578-merlot-287173011,5.19,0.715167358,AUS,5.19,4,4.5
+red,75,The Workshop Wine Company Shiraz,4.79,4.7,6,United Kingdom,13.5,2016,https://groceries.morrisons.com/products/the-workshop-wine-company-shiraz-358865011,4.79,0.680335513,GBR,4.79,6,4.7
+red,75,Yellow Tail Shiraz,7,4.5,8,Australia,13.5,2020,https://groceries.morrisons.com/products/yellow-tail-shiraz-272107011,7,0.84509804,AUS,7,2,4.5
+red,75,The Shy Pig Red,4.79,3.2,29,Australia,10.5,NV,https://groceries.morrisons.com/products/the-shy-pig-red-273012011,4.79,0.680335513,AUS,4.79,,3.2
+red,75,Jam Shed Shiraz,7.75,3.3,9,Australia,13.5,2020,https://groceries.morrisons.com/products/jam-shed-shiraz-477268011,7.75,0.889301703,AUS,7.75,2,3.3
+red,75,Montepulciano D'Abruzzo,5.19,4.5,11,Italy,13,2019,https://groceries.morrisons.com/products/montepulciano-d-abruzzo-247967011,5.19,0.715167358,ITA,5.19,3,4.5
+red,75,Barefoot Shiraz Red Wine,5.5,4.4,7,California,13.5,NV,https://groceries.morrisons.com/products/barefoot-shiraz-red-wine-119758011,5.5,0.740362689,unknown,5.5,,4.4
+red,75,Morrisons Merlot,4.79,2.7,3,Chile,13,,https://groceries.morrisons.com/products/morrisons-merlot-421265011,4.79,0.680335513,CHL,4.79,,0
+red,75,Morrisons Malbec 75Cl,4.99,1,1,South Africa,13,,https://groceries.morrisons.com/products/morrisons-malbec-75cl-421261011,4.99,0.698100546,ZAF,4.99,,0
+red,75,Campo Viejo Rioja Tempranillo Red Wine,8.25,4.3,44,Spain,13.5,2019,https://groceries.morrisons.com/products/campo-viejo-rioja-tempranillo-red-wine-119698011,8.25,0.916453949,ESP,8.25,3,4.3
+red,100,Felix Solis Sol de Espana Red Wine,4.99,4,3,Spain,11,NV,https://groceries.morrisons.com/products/felix-solis-sol-de-espana-red-wine-119692011,3.7425,0.573161809,ESP,4.99,,0
+red,75,J.P. Chenet Cabernet Syrah,6.75,4.5,2,France,13,2016,https://groceries.morrisons.com/products/j-p-chenet-cabernet-syrah-119676011,6.75,0.829303773,FRA,6.75,6,0
+red,75,Trivento Reserve Malbec,8.5,3.8,13,Argentina,14,2020,https://groceries.morrisons.com/products/trivento-reserve-malbec-248213011,8.5,0.929418926,ARG,8.5,2,3.8
+red,75,Lindeman's Bin 50 Shiraz,6.5,4,2,Australia,14,2020,https://groceries.morrisons.com/products/lindeman-s-bin-50-shiraz-210886011,6.5,0.812913357,AUS,6.5,2,0
+red,75,Chevaliers St Martin Aop Bordeaux,5.19,4,2,France,13.5,2019,https://groceries.morrisons.com/products/chevaliers-st-martin-aop-bordeaux-523779011,5.19,0.715167358,FRA,5.19,3,0
+red,225,Morrisons Malbec,13.25,4,2,Argentina,13,,https://groceries.morrisons.com/products/morrisons-malbec-530791011,4.416666667,0.645094624,ARG,13.25,,0
+red,75,Yellow Tail Malbec,7,4.6,7,Australia,13.5,2019,https://groceries.morrisons.com/products/yellow-tail-malbec-273276011,7,0.84509804,AUS,7,3,4.6
+red,75,Morrisons Pinot Noir,4.79,2.8,4,Chile,13,,https://groceries.morrisons.com/products/morrisons-pinot-noir-421263011,4.79,0.680335513,CHL,4.79,,0
+red,75,Workshop Cabernet Sauvignon,4.79,0,0,United Kingdom,13.5,,https://groceries.morrisons.com/products/workshop-cabernet-sauvignon-548149011,4.79,0.680335513,GBR,4.79,,0
+red,225,Australian Red,13,0,0,Australia,12.5,NV,https://groceries.morrisons.com/products/australian-red-448084011,4.333333333,0.636822098,AUS,13,,0
+red,75,Casilliero del Diablo Reserva Merlot,7.5,3.3,7,Chile,13.5,2020,https://groceries.morrisons.com/products/casilliero-del-diablo-reserva-merlot-119772011,7.5,0.875061263,CHL,7.5,2,3.3
+red,75,Jam Shed Malbec Argentina,8,3,2,Argentina,13,2019,https://groceries.morrisons.com/products/jam-shed-malbec-argentina-551480011,8,0.903089987,ARG,8,3,0
+red,100,Penasol Sangria (Abv 5%),3.45,5,3,Spain,5,NV,https://groceries.morrisons.com/products/penasol-sangria-abv-5-413304011,2.5875,0.412880358,ESP,3.45,,0
+red,75,Paul Mas Reserve Pinot Noir,8.75,4,4,France,13,2019,https://groceries.morrisons.com/products/paul-mas-reserve-pinot-noir-523795011,8.75,0.942008053,FRA,8.75,3,0
+red,75,McGuigan Reserve Shiraz,7.5,5,10,Australia,13.5,2020,https://groceries.morrisons.com/products/mcguigan-reserve-shiraz-119754011,7.5,0.875061263,AUS,7.5,2,5
+red,75,Morrisons Shiraz,4.79,3,2,Chile,13,2019,https://groceries.morrisons.com/products/morrisons-shiraz-421267011,4.79,0.680335513,CHL,4.79,3,0
+red,75,Mavrodaphne Of Patras Sweet Red Wine,5.99,3.7,10,Greece,15,NV,https://groceries.morrisons.com/products/mavrodaphne-of-patras-sweet-red-wine-401925011,5.99,0.777426822,GRC,5.99,,3.7
+red,75,Barefoot Jammy Red Wine,7,4,48,United States,10.5,NV,https://groceries.morrisons.com/products/barefoot-jammy-red-wine-523789011,7,0.84509804,USA,7,,4
+red,75,La Vieille Ferme,6.5,3.7,3,France,13,2019,https://groceries.morrisons.com/products/la-vieille-ferme-217712011,6.5,0.812913357,FRA,6.5,3,0
+red,75,Le Verdier Cairanne Cotes Durhone Village 75,10,5,9,France,14.5,2014,https://groceries.morrisons.com/products/le-verdier-cairanne-cotes-durhone-village-75-327657011,10,1,FRA,10,8,5
+red,75,Morrisons Pinotage,4.79,4.7,3,South Africa,13,,https://groceries.morrisons.com/products/morrisons-pinotage-421266011,4.79,0.680335513,ZAF,4.79,,0
+red,75,Wolf Blass Yellow Label Cabernet Sauvignon,8.5,5,2,Australia,14.5,2020,https://groceries.morrisons.com/products/wolf-blass-yellow-label-cabernet-sauvignon-212434011,8.5,0.929418926,AUS,8.5,2,0
+red,75,Grand Vin De Stellenbosch Cabernet Sauvignon Merlot,9,4.7,3,South Africa,13.5,2019,https://groceries.morrisons.com/products/grand-vin-de-stellenbosch-cabernet-sauvignon-merlot-524514011,9,0.954242509,ZAF,9,3,0
+red,225,Alzar Malbec,17,0,0,Argentina,12.5,2021,https://groceries.morrisons.com/products/alzar-malbec-415688011,5.666666667,0.753327667,ARG,17,1,0
+red,75,Workshop Australian Red,4.99,0,0,Australia,12.5,NV,https://groceries.morrisons.com/products/workshop-australian-red-553812011,4.99,0.698100546,AUS,4.99,,0
+red,75,Oyster Bay Merlot,11,5,2,New Zealand,13.5,2019,https://groceries.morrisons.com/products/oyster-bay-merlot-295947011,11,1.041392685,NZL,11,3,0
+red,75,Carta Roja Pura Jumilla Organic Wine,7.75,3.5,12,Spain,14,2019,https://groceries.morrisons.com/products/carta-roja-pura-jumilla-organic-wine-421291011,7.75,0.889301703,ESP,7.75,3,3.5
+red,75,Graham Norton He Devil Rich Crafted Red,7,3,4,Argentina,14.5,,https://groceries.morrisons.com/products/graham-norton-he-devil-rich-crafted-red-571441011,7,0.84509804,ARG,7,,0
+red,75,Mcguigan Black Label Shiraz,7.5,4.3,4,Australia,13.5,NV,https://groceries.morrisons.com/products/mcguigan-black-label-shiraz-551915011,7.5,0.875061263,AUS,7.5,,0
+red,75,Vinalba Patagonia Malbec,10,3.8,5,Argentina,14,2015,https://groceries.morrisons.com/products/vinalba-patagonia-malbec-378127011,10,1,ARG,10,7,0
+red,75,McGuigan Reserve Cabernet Sauvignon,7.5,3.7,3,Australia,12.5,2021,https://groceries.morrisons.com/products/mcguigan-reserve-cabernet-sauvignon-480658011,7.5,0.875061263,AUS,7.5,1,0
+red,75,Morrisons The Best Mulled Wine,4.99,2,3,unknown,11,NV,https://groceries.morrisons.com/products/morrisons-the-best-mulled-wine-500605011,4.99,0.698100546,unknown,4.99,,0
+red,75,Vinus By Paul Masmalbec,8.25,4,2,France,13.5,2015,https://groceries.morrisons.com/products/vinus-by-paul-masmalbec-287473011,8.25,0.916453949,FRA,8.25,7,0
+red,75,19 Crimes The Deported,10,3.1,19,Australia,13,2020,https://groceries.morrisons.com/products/19-crimes-the-deported-548148011,10,1,AUS,10,2,3.1
+red,75,Most Wanted Malbec 75Cl,7.75,4.3,16,South Africa,13.5,2021,https://groceries.morrisons.com/products/most-wanted-malbec-75cl-382859011,7.75,0.889301703,ZAF,7.75,1,4.3
+red,75,Jacob's Creek Double Barrel Matured Shiraz Red Wine,12,3.8,5,Australia,14.5,,https://groceries.morrisons.com/products/jacob-s-creek-double-barrel-matured-shiraz-red-wine-477277011,12,1.079181246,AUS,12,,0
+red,75,Zarper Malbec Gran Reserva,8.25,4.3,6,Chile,14,,https://groceries.morrisons.com/products/zarper-malbec-gran-reserva-378125011,8.25,0.916453949,CHL,8.25,,4.3
+red,75,Apothic Cabernet Sauvignon Red Wine,10,0,0,United States,13.5,2019,https://groceries.morrisons.com/products/apothic-cabernet-sauvignon-red-wine-551491011,10,1,USA,10,3,0
+red,75,Grant Burge Barossa Shiraz 5th Generation,13,5,1,Australia,14.5,2018,https://groceries.morrisons.com/products/grant-burge-barossa-shiraz-5th-generation-562931011,13,1.113943352,AUS,13,4,0
+red,75,Vinalba Malbec,10,4.3,6,Argentina,14.5,2012,https://groceries.morrisons.com/products/vinalba-malbec-287191011,10,1,ARG,10,10,4.3
+red,75,Comte De Saint Emmanuel,11,3,1,France,13,,https://groceries.morrisons.com/products/comte-de-saint-emmanuel-586374011,11,1.041392685,FRA,11,,0
+red,75,Freixenet Rioja,7,5,1,Spain,13.5,2020,https://groceries.morrisons.com/products/freixenet-rioja-578064011,7,0.84509804,ESP,7,2,0
+red,75,The Wanderer Malbec,12,4.7,31,Argentina,13,NV,https://groceries.morrisons.com/products/the-wanderer-malbec-583440011,12,1.079181246,ARG,12,,4.7
+red,75,Campo Viejo Rioja Gran Reserva Red Wine,14,4.4,33,Spain,13.5,2014,https://groceries.morrisons.com/products/campo-viejo-rioja-gran-reserva-red-wine-287218011,14,1.146128036,ESP,14,8,4.4
+red,75,Contino Reserva Rioja,25,0,0,Spain,14,2016,https://groceries.morrisons.com/products/contino-reserva-rioja-482575011,25,1.397940009,ESP,25,6,0
+red,225,Jp Chenet Cabernet Syrah,16.5,0,0,France,13,2019,https://groceries.morrisons.com/products/jp-chenet-cabernet-syrah-553991011,5.5,0.740362689,FRA,16.5,3,0
+red,150,19 Crimes Red Blend,17,0,0,Australia,13.5,NV,https://groceries.morrisons.com/products/19-crimes-red-blend-530824011,8.5,0.929418926,AUS,17,,0
+red,75,Calvet Cahors Malbec,8.25,3.1,7,Cahors,13.5,2015,https://groceries.morrisons.com/products/calvet-cahors-malbec-119671011,8.25,0.916453949,unknown,8.25,7,3.1
+red,75,Penfolds Bin 8 Shiraz Cabernet,21,5,1,Australia,14.5,,https://groceries.morrisons.com/products/penfolds-bin-8-shiraz-cabernet-551499011,21,1.322219295,AUS,21,,0
+red,75,Carnivor Zinfandel Red Wine,10,0,0,California,14.5,2019,https://groceries.morrisons.com/products/carnivor-zinfandel-red-wine-577639011,10,1,unknown,10,3,0
+red,75,Cidade Branca Alentejo,8,3.8,5,Portugal,14,2019,https://groceries.morrisons.com/products/cidade-branca-alentejo-533894011,8,0.903089987,PRT,8,3,0
+red,75,Jacob's Creek Reserve Cabernet Sauvignon,9,3,1,Australia,14.5,2019,https://groceries.morrisons.com/products/jacob-s-creek-reserve-cabernet-sauvignon-551494011,9,0.954242509,AUS,9,3,0
+red,75,Louis Jadot Bourgogne Pinot Noir,17,3.3,3,France,13,2019,https://groceries.morrisons.com/products/louis-jadot-bourgogne-pinot-noir-523787011,17,1.230448921,FRA,17,3,0
+red,75,Costa Di Bussia Barolo,37,0,0,Italy,14.5,2012,https://groceries.morrisons.com/products/costa-di-bussia-barolo-482572011,37,1.568201724,ITA,37,10,0
+red,75,Bonpas Vacqueyras,15,4.5,2,France,14,2019,https://groceries.morrisons.com/products/bonpas-vacqueyras-533896011,15,1.176091259,FRA,15,3,0
+red,75,Campo Viejo Winemakers Blend Red Wine,8.25,3,1,Spain,13.5,2019,https://groceries.morrisons.com/products/campo-viejo-winemakers-blend-red-wine-551498011,8.25,0.916453949,ESP,8.25,3,0
+red,75,Cour Rastignac Medoc,10,3.5,2,France,13.5,2019,https://groceries.morrisons.com/products/cour-rastignac-medoc-527200011,10,1,FRA,10,3,0
+red,75,Piccini Appassimento Leggero,9,3,1,Italy,14,2020,https://groceries.morrisons.com/products/piccini-appassimento-leggero-583446011,9,0.954242509,ITA,9,2,0
+red,75,Chateau Des Jacques Moulin-A-Vent,18,4,2,France,13.5,2018,https://groceries.morrisons.com/products/chateau-des-jacques-moulin-a-vent-523790011,18,1.255272505,FRA,18,4,0
+red,75,Chateau Mauriac Bordeaux,7.5,3.6,5,France,13.5,2019,https://groceries.morrisons.com/products/chateau-mauriac-bordeaux-119654011,7.5,0.875061263,FRA,7.5,3,0
+red,75,Nipozzano Chianti Rufina Riserva,17,0,0,Italy,13.5,2019,https://groceries.morrisons.com/products/nipozzano-chianti-rufina-riserva-421296011,17,1.230448921,ITA,17,3,0
+fortified_and_other,75,Barefoot Chardonnay White Wine,6.75,4.3,31,United States,13.5,NV,https://groceries.morrisons.com/products/barefoot-chardonnay-white-wine-379847011,6.75,0.829303773,USA,6.75,,4.3
+fortified_and_other,75,Schmitt Liebfraumilch,4.49,2,1,Germany,9,,https://groceries.morrisons.com/products/schmitt-liebfraumilch-421228011,4.49,0.652246341,DEU,4.49,,0
+fortified_and_other,70,Tamnavulin Sherry Cask Single Malt Scotch Whisky,20,0,0,Scotland,40,,https://groceries.morrisons.com/products/tamnavulin-sherry-cask-single-malt-scotch-whisky-553401011,21.42857143,1.330993219,unknown,20,,0
+fortified_and_other,100,Cockburn's Special Reserve Port,11.5,5,3,: Portugal,20,NV,https://groceries.morrisons.com/products/cockburn-s-special-reserve-port-211142011,8.625,0.935759104,unknown,11.5,,0
+fortified_and_other,75,Harveys Bristol Cream Sherry,10,4,4,Spain,17.5,,https://groceries.morrisons.com/products/harveys-bristol-cream-sherry-211369011,10,1,ESP,10,,0
+fortified_and_other,75,Dow's Renown Port,8.5,5,4,Portugal,19,NV,https://groceries.morrisons.com/products/dow-s-renown-port-211361011,8.5,0.929418926,PRT,8.5,,0
+fortified_and_other,37.5,Morrisons The Best Oloroso Sherry,5.5,4,3,Spain,20,,https://groceries.morrisons.com/products/morrisons-the-best-oloroso-sherry-273902011,11,1.041392685,ESP,5.5,,0
+fortified_and_other,75,Martini Extra Dry Vermouth,8,5,1,Italy,15,NV,https://groceries.morrisons.com/products/martini-extra-dry-vermouth-376757011,8,0.903089987,ITA,8,,0
+fortified_and_other,75,Cockburns Special Reserve,9,0,0,: Portugal,20,NV,https://groceries.morrisons.com/products/cockburns-special-reserve-217625011,9,0.954242509,unknown,9,,0
+fortified_and_other,75,Martini Rosso Vermouth,8,0,0,Italy,15,,https://groceries.morrisons.com/products/martini-rosso-vermouth-376756011,8,0.903089987,ITA,8,,0
+fortified_and_other,75,Blandy's Rich Madeira,9,5,2,the Island of Madeira,19,NV,https://groceries.morrisons.com/products/blandy-s-rich-madeira-217920011,9,0.954242509,unknown,9,,0
+fortified_and_other,70,Crabbies Green Ginger Wine,5.5,5,3,United Kingdom,13.5,,https://groceries.morrisons.com/products/crabbies-green-ginger-wine-268012011,5.892857143,0.770325913,GBR,5.5,,0
+fortified_and_other,75,Taylor's 10 Year Old Tawny,17,0,0,Portugal,20,,https://groceries.morrisons.com/products/taylor-s-10-year-old-tawny-217611011,17,1.230448921,PRT,17,,0
+fortified_and_other,75,Martini Bianco Vermouth,8,0,0,Italy,15,NV,https://groceries.morrisons.com/products/martini-bianco-vermouth-480694011,8,0.903089987,ITA,8,,0
+fortified_and_other,37.5,Morrisons The Best Pedro Ximenez,5.5,4,12,Spain,17,,https://groceries.morrisons.com/products/morrisons-the-best-pedro-ximenez-210746011,11,1.041392685,ESP,5.5,,4
+fortified_and_other,100,Morrisons Cream Sherry,7.75,4.6,11,Spain,17.5,,https://groceries.morrisons.com/products/morrisons-cream-sherry-217643011,5.8125,0.764362966,ESP,7.75,,4.6
+fortified_and_other,100,Morrisons Pale Cream Sherry,7.5,3.7,3,Spain,17.5,,https://groceries.morrisons.com/products/morrisons-pale-cream-sherry-210962011,5.625,0.750122527,ESP,7.5,,0
+fortified_and_other,70,Morrisons Fine Green Ginger Wine,3.75,3.8,8,unknown,13.5,,https://groceries.morrisons.com/products/morrisons-fine-green-ginger-wine-210672011,4.017857143,0.603994491,unknown,3.75,,3.8
+fortified_and_other,100,Morrisons Amontillado Sherry,7.5,3.3,4,Spain,17.5,,https://groceries.morrisons.com/products/morrisons-amontillado-sherry-217679011,5.625,0.750122527,ESP,7.5,,0
+fortified_and_other,75,Morrisons Fino Sherry,5.69,3.8,12,Spain,15,,https://groceries.morrisons.com/products/morrisons-fino-sherry-217652011,5.69,0.755112266,ESP,5.69,,3.8
+fortified_and_other,70,Stone's Original Green Ginger Wine,5.49,4,3,United Kingdom,13.5,NV,https://groceries.morrisons.com/products/stone-s-original-green-ginger-wine-211011011,5.882142857,0.769535568,GBR,5.49,,0
+fortified_and_other,100,Croft Original Sherry Fine Pale Cream,12.5,5,1,Spain,17.5,NV,https://groceries.morrisons.com/products/croft-original-sherry-fine-pale-cream-211696011,9.375,0.971971276,ESP,12.5,,0
+fortified_and_other,75,Morrisons Ruby Port,7.49,4.7,3,Portugal,19,,https://groceries.morrisons.com/products/morrisons-ruby-port-217599011,7.49,0.874481818,PRT,7.49,,0
+fortified_and_other,100,Morrisons Vermouth Rosso,6,5,7,unknown,14.8,,https://groceries.morrisons.com/products/morrisons-vermouth-rosso-212228011,4.5,0.653212514,unknown,6,,5
+fortified_and_other,100,Morrisons Manor Hall Fortified British Wine Medium,6.25,0,0,unknown,15,,https://groceries.morrisons.com/products/morrisons-manor-hall-fortified-british-wine-medium-210876011,4.6875,0.670941281,unknown,6.25,,0
+fortified_and_other,100,Morrisons Vermouth Extra Dry,6,0,0,Italy,14.8,,https://groceries.morrisons.com/products/morrisons-vermouth-extra-dry-217731011,4.5,0.653212514,ITA,6,,0
+fortified_and_other,100,Morrisons Vermouth Bianco,6,5,1,Italy,14.8,,https://groceries.morrisons.com/products/morrisons-vermouth-bianco-217730011,4.5,0.653212514,ITA,6,,0
+fortified_and_other,70,QC Cream,4.79,2.5,2,unknown,15,NV,https://groceries.morrisons.com/products/qc-cream-211697011,5.132142857,0.710298737,unknown,4.79,,0
+fortified_and_other,100,Cinzano Bianco (ABV 15%),8.5,0,0,Italy,15,,https://groceries.morrisons.com/products/cinzano-bianco-abv-15-389820011,6.375,0.804480189,ITA,8.5,,0
+fortified_and_other,75,Morrisons Special Reserve Port,8.5,4.4,8,Portugal,20,,https://groceries.morrisons.com/products/morrisons-special-reserve-port-217636011,8.5,0.929418926,PRT,8.5,,4.4
+fortified_and_other,37.5,Wm Morrison Palo Cortado,6.25,3,2,Spain,19,,https://groceries.morrisons.com/products/wm-morrison-palo-cortado-299261011,12.5,1.096910013,ESP,6.25,,0
+fortified_and_other,75,Morrisons The Best Aged Tawny Port,12.5,5,1,Portugal,20,,https://groceries.morrisons.com/products/morrisons-the-best-aged-tawny-port-310363011,12.5,1.096910013,PRT,12.5,,0
+fortified_and_other,75,W.& J. Graham's Late Bottled Vintage Port,14,4.8,4,Portugal,20,,https://groceries.morrisons.com/products/w-j-graham-s-late-bottled-vintage-port-217841011,14,1.146128036,PRT,14,,0
+fortified_and_other,100,Morrisons Manor Hall Fortified British Wine Cream,6.25,0,0,unknown,15,,https://groceries.morrisons.com/products/morrisons-manor-hall-fortified-british-wine-cream-210641011,4.6875,0.670941281,unknown,6.25,,0
+fortified_and_other,75,Morrisons Tawny Port,7.49,3,2,Portugal,19,,https://groceries.morrisons.com/products/morrisons-tawny-port-217607011,7.49,0.874481818,PRT,7.49,,0
+fortified_and_other,70,Old Westminster Pale Cream,3.99,0,0,United Kingdom,13,NV,https://groceries.morrisons.com/products/old-westminster-pale-cream-480701011,4.275,0.630936119,GBR,3.99,,0
+fortified_and_other,70,Old Westminster Cream Fortified British Wine,3.99,0,0,unknown,13,,https://groceries.morrisons.com/products/old-westminster-cream-fortified-british-wine-210635011,4.275,0.630936119,unknown,3.99,,0
+fortified_and_other,75,Cockburn's Fine Ruby Port,10.5,0,0,Portugal,19,NV,https://groceries.morrisons.com/products/cockburn-s-fine-ruby-port-210845011,10.5,1.021189299,PRT,10.5,,0
+fortified_and_other,75,Cornish Blackberry Mead,8.75,3,6,United Kingdom,17,NV,https://groceries.morrisons.com/products/cornish-blackberry-mead-303949011,8.75,0.942008053,GBR,8.75,,3
+fortified_and_other,70,Sanatogen Original Tonic Wine,5.75,4.5,2,unknown,15,NV,https://groceries.morrisons.com/products/sanatogen-original-tonic-wine-211698011,6.160714286,0.789631068,unknown,5.75,,0
+fortified_and_other,75,Gonzalez Byass Tio Pepe Fino,11,0,0,Spain,15,NV,https://groceries.morrisons.com/products/gonzalez-byass-tio-pepe-fino-218059011,11,1.041392685,ESP,11,,0
+fortified_and_other,75,Taylor's Late Bottled Vintage Port,16,3.7,3,Portugal,20,2014,https://groceries.morrisons.com/products/taylor-s-late-bottled-vintage-port-211532011,16,1.204119983,PRT,16,8,0
+fortified_and_other,75,Morrisons The Best LBV Port,11.5,3.5,4,Portugal,20,,https://groceries.morrisons.com/products/morrisons-the-best-lbv-port-217628011,11.5,1.06069784,PRT,11.5,,0
