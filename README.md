@@ -5,7 +5,7 @@ Scrape data from wine retailers' websites and analyse their offerings
 ## Contributions
 
 - [@FanXia1227](https://github.com/FanXia1227): Market research, report writing.
-- [@jill-data](https://github.com/jill-data): Web scraping (3 retailers), analysis and visualisation, code and data merging, writing (final report, README).
+- [@jill-data](https://github.com/jill-data): Web scraping (3 retailers), code and data merging, writing (final report, README).
 - [@SoumyaO](https://github.com/SoumyaO): Data cleaning & EDA (2 retailers), report writing, analysis and visualisation.
 - [@Wayne599](https://github.com/Wayne599): Web scraping (1 retailer) and EDA (1 retailer), data cleaning.
 
